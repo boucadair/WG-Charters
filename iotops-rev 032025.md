@@ -36,14 +36,16 @@ Informational/BCP documents in the IOTOPS working group are restricted to:
 
 1. Taking input and discussing issues related to the operational management of IoT devices.
 This includes (but is not limited to):
-- Factory provisioning of devices
-- Onboarding of devices
-- Access control of devices to network resources
-- Administrative control of devices
-- Software/firmware upgrades
-- Isolation/quarantine of devices
-- Remediation of broken devices
-- End of life management of devices
+
+   - Factory provisioning of devices
+   - Onboarding of devices
+   - Access control of devices to network resources
+   - Administrative control of devices
+   - Software/firmware upgrades
+   - Isolation/quarantine of devices
+   - Remediation of broken devices
+   - End of life management of devices
+
 2. Taking input and discussing issues related to IoT operational security.
 3. Publishing operational practices and guidance.
 4. Documenting requirements and terminology.
