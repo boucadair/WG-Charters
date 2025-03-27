@@ -16,14 +16,17 @@ relevant working groups.
 - Develop mechanisms and procedures for sharing operational information 
 to aid in operation of the multicast backbones and interconnects.
 
-- Analyze the need for IPv4 - IPv6 multicast transition solutions
-
 - Develop tools, extend protocols and provide operational and 
 implementation advice that assists in multicast administration, 
 diagnostics, troubleshooting and deployment between/within native and 
 non-native environments.
 
-- Development of routing and group membership protocols is out of scope. 
+- Develop data models and other automation building blocks related
+  to the operation of multicast services.
+  
+- Develop and maintain Mtrace.
+
+Development of routing and group membership protocols is out of scope. 
 This working group may develop requirements and assist in review and 
 feedback of documents in other working groups responsible for such 
 protocols.
