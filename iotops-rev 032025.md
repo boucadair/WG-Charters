@@ -12,7 +12,7 @@ The IOTOPS working group focuses on devices that:
 * are deployed in sufficiently large numbers that they cannot easily be managed or maintained manually.
 
 The IETF develops a number of technologies related to IoT. This includes, but is not limited to, work done in ACE,
-ANIMA, CBOR, CORE, DRIP, LAKE, ROLL, SUIT, TEEP, 6LO, and other working groups. IOTOPS
+ANIMA, CBOR, CORE, DRIP, LAKE, ROLL, SCHC, SUIT, TEEP, 6LO, and other working groups. IOTOPS
 is intended to be a venue to discuss how various IoT-related technologies fit together. Specifically, IOTOPS
 provides a venue for IoT experts and other interested parties to
 engage in discussions of operational IoT requirements, as well as approaches for new uses
@@ -34,7 +34,8 @@ Standard track/BCP documents in the IOTOPS working group are restricted to:
 
 Informational/BCP documents in the IOTOPS working group are restricted to:
 
-1. Taking input and discussing issues related to the operational management of IoT devices.
+1. Documenting requirements and terminology.
+2. Taking input and discussing issues related to the operational management of IoT devices.
 This includes (but is not limited to):
 
    - Factory provisioning of devices
@@ -46,6 +47,6 @@ This includes (but is not limited to):
    - Remediation of broken devices
    - End of life management of devices
 
-2. Taking input and discussing issues related to IoT operational security.
-3. Publishing operational practices and guidance.
-4. Documenting requirements and terminology.
+3. Taking input and discussing issues related to IoT operational security.
+4. Publishing operational practices and guidance.
+
