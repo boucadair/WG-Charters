@@ -18,7 +18,7 @@ provides a venue for IoT experts and other interested parties to
 engage in discussions of operational IoT requirements, as well as approaches for new uses
 of IP technology related to IoT devices and network operations.
 
-Likewise, the IOTOPS working group welcome presentations from operators sharing issues and experience, and other work
+Likewise, the IOTOPS working group welcomes presentations from operators sharing issues and experience, and other work
 within scope for the working group.
 
 Revision, updates, and extensions to work from existing working groups will be done in those working groups, except for
