@@ -11,7 +11,7 @@ The IOTOPS working group focuses on devices that:
 * have a very limited end-user interface or no end-user interface at all, and
 * are deployed in sufficiently large numbers that they cannot easily be managed or maintained manually.
 
-The IETF develops a number of technologies related to IoT. This includes, but is not limited to, work done in ACE,
+The IETF defines a number of standards related to IoT. This includes, but is not limited to, work done in ACE,
 ANIMA, CBOR, CORE, DRIP, LAKE, ROLL, SCHC, SUIT, TEEP, 6LO, and other working groups. IOTOPS
 is intended to be a venue to discuss how various IoT-related technologies fit together. Specifically, IOTOPS
 provides a venue for IoT experts and other interested parties to
@@ -26,27 +26,26 @@ Standards Track/BCP work that focuses on IoT device lifecycle documents and rela
 
 Where other new work may be needed, IOTOPS will help identify candidate venues within the IETF for their development.
 
-Standard track/BCP documents in the IOTOPS working group are restricted to:
+* Standard track/BCP documents in the IOTOPS working group are restricted to:
 
-- Manufacturer Usage Description (MUD) solutions
-- Configuration backup and recovery solutions
-- Software/firmware upgrade solutions, focusing on discovery and distribution
+     - Manufacturer Usage Description (MUD) solutions
+     - Configuration backup and recovery solutions
+     - Software/firmware upgrade solutions, focusing on discovery and distribution
 
-Informational/BCP documents in the IOTOPS working group are restricted to:
+* Informational/BCP documents in the IOTOPS working group are restricted to:
 
-1. Documenting requirements and terminology.
-2. Taking input and discussing issues related to the operational management of IoT devices.
-This includes (but is not limited to):
+    - Documenting requirements and terminology.
+    - Taking input and discussing issues related to the operational management of IoT devices. This includes (but is not limited to):
 
-   - Factory provisioning of devices
-   - Onboarding of devices
-   - Access control of devices to network resources
-   - Administrative control of devices
-   - Software/firmware upgrades
-   - Isolation/quarantine of devices
-   - Remediation of broken devices
-   - End of life management of devices
+        + Factory provisioning of devices
+        + Onboarding of devices
+        + Access control of devices to network resources
+        + Administrative control of devices
+        + Software/firmware upgrades
+        + Isolation/quarantine of devices
+        + Remediation of broken devices
+        + End of life management of devices
 
-3. Taking input and discussing issues related to IoT operational security.
-4. Publishing operational practices and guidance.
+    - Taking input and discussing issues related to IoT operational security.
+    - Publishing operational practices and guidance.
 
