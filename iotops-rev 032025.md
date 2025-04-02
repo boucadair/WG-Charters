@@ -21,8 +21,7 @@ of IP technology related to IoT devices and network operations.
 Likewise, the IOTOPS working group welcomes presentations from operators sharing issues and experience, and other work
 within scope for the working group.
 
-Revision, updates, and extensions to work from existing working groups will be done in those working groups, except for
-Standards Track/BCP work that focuses on IoT device lifecycle documents and related work as described below.
+Revision, updates, and extensions to work from existing WGs will be done in those WGs.
 
 Where other new work may be needed, IOTOPS will help identify candidate venues within the IETF for their development.
 
@@ -50,4 +49,3 @@ IOTOPS is chartered with the following scope:
 
     - Taking input and discussing issues related to IoT operational security.
     - Publishing operational practices and guidance.
-
