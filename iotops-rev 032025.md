@@ -27,13 +27,13 @@ Where other new work may be needed, IOTOPS will help identify candidate venues w
 
 IOTOPS is chartered with the following scope:
 
-* Standard track/BCP documents in the IOTOPS working group are restricted to:
+* Standard track/BCP specifications that cover:
 
      - Manufacturer Usage Description (MUD) solutions
      - Configuration backup and recovery solutions
      - Software/firmware upgrade solutions, focusing on discovery and distribution
 
-* Informational/BCP documents in the IOTOPS working group are restricted to:
+* Informational/BCP documents are restricted to:
 
     - Documenting requirements and terminology.
     - Taking input and discussing issues related to the operational management of IoT devices. This includes (but is not limited to):
