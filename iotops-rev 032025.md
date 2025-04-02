@@ -26,6 +26,8 @@ Standards Track/BCP work that focuses on IoT device lifecycle documents and rela
 
 Where other new work may be needed, IOTOPS will help identify candidate venues within the IETF for their development.
 
+IOTOPS is chartered with the following scope:
+
 * Standard track/BCP documents in the IOTOPS working group are restricted to:
 
      - Manufacturer Usage Description (MUD) solutions
