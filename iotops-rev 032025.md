@@ -1,7 +1,6 @@
 # Charter for Working Group
 
-The IOTOPS working group is chartered for the discussion of operational issues related
-to Internet of Things (IoT) devices, in particular related to device onboarding and lifecycle management.
+The IOTOPS working group is chartered for the discussion of operational issues related to Internet of Things (IoT) devices, in particular related to device onboarding and lifecycle management.
 
 IoT has a rather nebulous definition with different meanings for different people.
 
@@ -11,29 +10,28 @@ The IOTOPS working group focuses on devices that:
 * have a very limited end-user interface or no end-user interface at all, and
 * are deployed in sufficiently large numbers that they cannot easily be managed or maintained manually.
 
-The IETF defines a number of standards related to IoT. This includes, but is not limited to, work done in ACE,
-ANIMA, CBOR, CORE, DRIP, LAKE, ROLL, SCHC, SUIT, TEEP, 6LO, and other working groups. IOTOPS
-is intended to be a venue to discuss how various IoT-related technologies fit together. Specifically, IOTOPS
-provides a venue for IoT experts and other interested parties to
-engage in discussions of operational IoT requirements, as well as approaches for new uses
-of IP technology related to IoT devices and network operations.
+The IETF defines a number of standards related to IoT, including, but not limited to, work produced by the ACE, ANIMA, CBOR, CORE, DRIP, LAKE, ROLL, SCHC, SUIT, TEEP, and 6LO working groups, among others.
 
-Likewise, the IOTOPS working group welcomes presentations from operators sharing issues and experience, and other work
-within scope for the working group.
+IOTOPS serves as a forum to discuss how these various IoT-related technologies interoperate and align. Specifically, IOTOPS
+provides IoT practitioners, operators, and other interested parties to engage in discussions around the operational requirements of IoT deployments. IOTOPS also explores emerging use cases and deployment models that may benefit from IP-based technologies in the context of IoT devices and networks.
+
+Likewise, IOTOPS welcomes presentations from IoT operators, including service providers, enterprises, and other organizations deploying or managing large-scale IoT systems, who wish to share operational experience, challenges, and lessons learned, as well as other work within scope for the working group.
 
 Revision, updates, and extensions to work from existing WGs will be done in those WGs.
 
 Where other new work may be needed, IOTOPS will help identify candidate venues within the IETF for their development.
 
+## Scope of Work
+
 IOTOPS is chartered with the following scope:
 
-* Standard track/BCP specifications that cover:
+* Standards Track and BCP Documents:
 
      - Manufacturer Usage Description (MUD) solutions
      - Configuration backup and recovery solutions
      - Software/firmware upgrade solutions, focusing on discovery and distribution
 
-* Informational/BCP documents are restricted to:
+* Informational and BCP Documents:
 
     - Documenting requirements and terminology.
     - Taking input and discussing issues related to the operational management of IoT devices. This includes (but is not limited to):
