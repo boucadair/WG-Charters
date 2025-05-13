@@ -54,7 +54,8 @@
   potentially reducing operational complexity in requiring multiple systems and swivel chairing and then utilising
   human intelligence to understand the difference between"
 * "The fragmentation make it difficult to introduce automation and or ML/AI end to end"
-* "never understood why things were so scattered" 
+* "never understood why things were so scattered"
+* "Propose profiles and integrate all components"
 
 
 
