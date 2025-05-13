@@ -20,7 +20,7 @@
 ## Priority Items
 
 * YANG2API (code/tools)
-* LxNM refresh based on deployment experience
+* LxNM refresh based on deployment experience (see candidate issues [here](https://github.com/oscargdd/lxnm-bis/issues))
 * AC Data Models applicability for network/cloud context
 
 ## Relationship with Existing WGs
