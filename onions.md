@@ -6,7 +6,7 @@
     + Build and provide a big picture of the operational needs and motivations for these abstractions
     + Structure the effort on Service and Network models (and their maintenance) together with glues with underlying devices models
        - Define models for network and service abstractions with support from operators
-       - Maintain network and service models (L3SM, L2SM, L2NM, L3NM, ACaaS, SAP, Slicing, VN, and ACTN, in particular) based on operational feedback
+       - Maintain network and service models (L3SM, L2SM, L2NM, L3NM, ACaaS, SAP, Slicing, SAIN, VN, and ACTN, in particular) based on operational feedback
        - Explore approaches for mapping between various abstraction layers
 * **Provide recommendations** on operationalizing YANG APIs (YANG2API)
     + Investigate required components so that YANG modules can be easily consumed
