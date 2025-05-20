@@ -25,7 +25,7 @@ non-native environments (e.g., Mtrace and Automatic Multicast Tunneling (AMT)).
 - Develop data models and other automation building blocks related
   to the operation of multicast services.
   
-Development of routing, forwarding and group membership protocols is out of scope. 
+Development of routing protocols, forwarding-plane solutions and extensions, and group membership protocols is out of scope. 
 This working group may develop requirements and assist in review and 
 feedback of documents in other working groups responsible for such 
 protocols.
