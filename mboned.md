@@ -6,7 +6,9 @@ This activity will include, but not be limited to:
 - Document deployment of multicast routing in the global Internet.
 
 - Receive regular reports on the current state of the deployment of 
-multicast technology. Create "practice and experience" documents that 
+multicast technology.
+
+- Create "practice and experience" documents that 
 capture the experience of those who have deployed and are deploying 
 various multicast technologies.
 
