@@ -19,7 +19,7 @@ relevant working groups.
 to aid in operation of the multicast backbones and interconnects.
 
 - Develop and maintain tools and protocols that assist in multicast administration, 
-diagnostics, troubleshooting and deployment between/within native and 
+diagnostics, troubleshooting, and deployment between/within native and 
 non-native environments (e.g., Mtrace and Automatic Multicast Tunneling (AMT)).
 
 - Develop data models and other automation building blocks related
