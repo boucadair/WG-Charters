@@ -1,62 +1,37 @@
-# Operationalizing Network & service abstractIONS (ONIONS)
+# ONIONS WG Charter
 
-## Scope/Mission
+> This is a retooling of the [raw version](onions-raw.md).  See that document for reference.
 
-* **Reference** for network/service abstractions modelling in the IETF
-    + Build and provide a big picture of the operational needs and motivations for these abstractions
-    + Structure the effort on Service and Network models (and their maintenance) together with glues with underlying devices models
-       - Define models for network and service abstractions with support from operators
-       - Maintain network and service models (L3SM, L2SM, L2NM, L3NM, ACaaS, SAP, Slicing, SAIN, VN, and ACTN, in particular) based on operational feedback
-       - Explore approaches for mapping between various abstraction layers
-* **Provide recommendations** on operationalizing YANG APIs (YANG2API)
-    + Investigate required components so that YANG modules can be easily consumed
-    + These components are meant to programmatically transform YANG models into key open APIs specifications
-* **Assess the applicability** of these abstractions to accommodate specific operational use cases and deployments.
-* **Assess the realization** of the intended abstractions and identify gaps, if any
-    + Typically, assess interactions with required control and data plane features to implement an intended service in a network
-* **Coordinate with the routing area** for evaluating OPS needs of proposed solutions that are motivated by a given abstraction need (e.g., slicing)
-    + 2-way coordination to put in place
+The ONIONS Working Group aims to facilitate the operationalization of network and service abstractions across IETF efforts, with the goal of improving network automation, operational efficiency, and interoperability.
 
-## Priority Items
+To achieve this, ONIONS will serve as a reference group for network and service abstraction modeling in the IETF. This includes providing a comprehensive overview of operational needs and motivations for network and service abstractions; structuring efforts on service and network models, including their maintenance and integration with underlying device models; defining and maintaining models for network and service abstractions (e.g., L3SM, L2SM, L2NM, L3NM, ACaaS, SAP, Slicing, SAIN, VN, and ACTN) based on operational feedback; and exploring approaches for mapping between various abstraction layers to enable seamless interoperability.
 
-* YANG2API (code/tools)
-* LxNM refresh based on deployment experience (see candidate issues [here](https://github.com/oscargdd/lxnm-bis/issues))
-* AC Data Models applicability for network/cloud context
+ONIONS will also develop recommendations for operationalizing YANG-based APIs (YANG2API). This involves investigating and defining the components required to programmatically transform YANG modules into open API specifications for easier consumption by operators and systems, as well as assessing the applicability of abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
 
-## Relationship with Existing WGs
+The working group will evaluate implementation and perform gap analyses of intended abstractions by assessing interactions with control and data plane features necessary to implement services within networks and identifying and addressing any gaps in the implementation of these abstractions.
+
+Furthermore, ONIONS will coordinate with the Routing Area and other relevant WGs to evaluate operational needs of abstraction-driven solutions (e.g., slicing). This will involve facilitating two-way coordination to ensure efficient alignment of efforts.
+The ONIONS WG will produce recommendations and tools to operationalize YANG APIs (YANG2API); updates to L2NM and L3NM models based on feedback and deployment experiences (especially considering the need for operational state data); assessments and recommendations for the applicability of AC data models in hybrid network/cloud environments; approaches for mapping between abstraction layers, ensuring seamless interoperability; and guidelines for integrating IETF YANG models with external frameworks (e.g., TMF640). The group will also engage in hackathons and community-driven validation efforts to test and refine its outputs.
+
+## Relationship With Existing WGs
 
 * NMOP
-   + Topology matters stay in NMOP
+  * ONIONS will focus on abstractions, while topology-related efforts will remain in NMOP.
 * TEAS/CCAMP
-   + Offload some of the work on data modelling to ONIONS
-   + These WGs can continue specify data models for the protocols/protocol extensions defined in these WGs 
+  * ONIONS will take on some of the data modeling efforts, allowing TEAS and CCAMP to continue specifying models for protocols and protocol extensions.
 * OPSAWG
-   + Offload AC/SAP/LxNM to ONIONS
-   + Future relevant work on abstractions will be directed to ONIONS
+  * ONIONS will handle AC/SAP/LxNM work, enabling OPSAWG to focus on other operational topics.
+  * Future abstraction-related work will be directed to ONIONS.
 
-## Other Inputs 
+## Milestones
 
-* "Kind of single pane of glass for network consumption, which is great for having a common understanding among
-   interested people on what offer from IETF networks to the consumers of them."
-    + "Simpler way of navigating the complexity of the different ways and needs in which the IETF network can be consumed."
-* "Given the abstracted nature of these NMs and SMs, hackathon work could be realized in ONIONS to test the veracity of
-   the work with multiple vendors"
-    + "One could build software to implement the higher abstractions and speak device-level down to the devices."
-    + "Show use of IETF, OC, and vendor device models to demonstrate the abstractions are doable
-       and thought-through (part of that assess the realization)"
-* "Investigate and possibly specify how IETF YANG models could work together with TMF(640)"
-    + "Offer an approach to access an IETF service modeled defined API like the network management system."
-    + "Doing this with low overhead and low impedance mismatch is critical to achieve robust operations and high change velocity."
-* "Improving service models. For example, adding operational state, which I’ve found to be a really lacking area today"
-* "Share with a wider community an Orchestron system that is engineered up from the idea of declarative mappings
-  between modeled data, which is exactly what one would need to map in a natural manner from IETF YANG service model to device models"
-* "The YANG mapping layer enables application independence at the layers above reducing integration costs,
-  potentially reducing operational complexity in requiring multiple systems and swivel chairing and then utilising
-  human intelligence to understand the difference between"
-* "The fragmentation make it difficult to introduce automation and or ML/AI end to end"
-* "never understood why things were so scattered"
-* "Propose profiles and integrate all components"
-
-
-
-
+| Date                      | Milestone | Description |
+|---------------------------|-----------| -------------|
+| March 2026                | WG adoption of YANG2API problem statement and requirements | Draft detailing the problem and requirements for operationalizing YANG APIs|
+| March 2026               | Development of tools/code for YANG2API|Initial set of tools and guidelines for generating APIs from YANG models|
+| July 2026                |LxNM refresh draft adoption |Updated drafts for L2NM and L3NM models based on deployment experience; and an attention to operational data|
+| November 2026            |Submission of LxNM refresh for IESG review |Refined L2NM and L3NM drafts submitted for IESG review|
+| July 2026                |AC Data Models applicability draft adoption |Draft assessing AC data models for network/cloud contexts|
+| November 2026            |Finalization of AC Data Models draft |Submission of AC applicability draft for IESG review|
+| March 2026               |Abstraction mapping approaches draft |Draft exploring methods for mapping between abstraction layers|
+| Ongoing as work progresses |Hackathon to demonstrate abstractions |Hackathon event showcasing vendor collaboration and abstraction feasibility|
