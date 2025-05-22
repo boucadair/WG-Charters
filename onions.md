@@ -2,15 +2,16 @@
 
 > This is a retooling of the [raw version](onions-raw.md).  See that document for reference.
 
-The ONIONS Working Group aims to facilitate the operationalization of network and service abstractions across IETF efforts, with the goal of improving network automation, operational efficiency, and interoperability.
+The Operationalizing Network & service abstractIONS (ONIONS) Working Group aims to facilitate the operationalization of network and service abstractions across IETF efforts, with the goal of improving network automation, operational efficiency, and interoperability.
 
-To achieve this, ONIONS will serve as a reference group for network and service abstraction modeling in the IETF. This includes providing a comprehensive overview of operational needs and motivations for network and service abstractions; structuring efforts on service and network models, including their maintenance and integration with underlying device models; defining and maintaining models for network and service abstractions (e.g., L3SM, L2SM, L2NM, L3NM, ACaaS, SAP, Slicing, SAIN, VN, and ACTN) based on operational feedback; and exploring approaches for mapping between various abstraction layers to enable seamless interoperability.
+To achieve this, ONIONS will serve as the focal point for network and service abstraction modeling in the IETF. This includes providing a comprehensive overview of operational needs and motivations for network and service abstractions; structuring efforts on service and network models, including their maintenance and integration with underlying device models; defining and maintaining models for network and service abstractions (e.g., L3SM, L2SM, L2NM, L3NM, ACaaS, SAP, Slicing, SAIN, VN, and ACTN) based on operational feedback; and exploring approaches for mapping between various abstraction layers to enable seamless interoperability.
 
 ONIONS will also develop recommendations for operationalizing YANG-based APIs (YANG2API). This involves investigating and defining the components required to programmatically transform YANG modules into open API specifications for easier consumption by operators and systems, as well as assessing the applicability of abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
 
 The working group will evaluate implementation and perform gap analyses of intended abstractions by assessing interactions with control and data plane features necessary to implement services within networks and identifying and addressing any gaps in the implementation of these abstractions.
 
 Furthermore, ONIONS will coordinate with the Routing Area and other relevant WGs to evaluate operational needs of abstraction-driven solutions (e.g., slicing). This will involve facilitating two-way coordination to ensure efficient alignment of efforts.
+
 The ONIONS WG will produce recommendations and tools to operationalize YANG APIs (YANG2API); updates to L2NM and L3NM models based on feedback and deployment experiences (especially considering the need for operational state data); assessments and recommendations for the applicability of AC data models in hybrid network/cloud environments; approaches for mapping between abstraction layers, ensuring seamless interoperability; and guidelines for integrating IETF YANG models with external frameworks (e.g., TMF640). The group will also engage in hackathons and community-driven validation efforts to test and refine its outputs.
 
 ## Relationship With Existing WGs
