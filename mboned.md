@@ -34,10 +34,10 @@ SAAG).
 
 #  Milestones
 
-Jul 2025 Submit Multicast Redundant Ingress Router Failover to the IESG
-Jul 2025 Submit Multicast YANG Data Model to the IESG
-Aug 2025 Submit Circuit Breaker Assisted Congestion Control to the IESG
-Aug 2025 Submit Discovery Of RESTCONF Metadata for Source-specific Multicast to the IESG
-Nov 2025 Submit YANG Data Model for Automatic Multicast Tunneling to the IESG
-May 2026 Submit Non-source-routed Multicast in SR Networks to the IESG
-Jun 2026 Submit Asymmetric Manifest Based Integrity to the IESG
+* Jul 2025 Submit Multicast Redundant Ingress Router Failover to the IESG
+* Jul 2025 Submit Multicast YANG Data Model to the IESG
+* Aug 2025 Submit Circuit Breaker Assisted Congestion Control to the IESG
+* Aug 2025 Submit Discovery Of RESTCONF Metadata for Source-specific Multicast to the IESG
+* Nov 2025 Submit YANG Data Model for Automatic Multicast Tunneling to the IESG
+* May 2026 Submit Non-source-routed Multicast in SR Networks to the IESG
+* Jun 2026 Submit Asymmetric Manifest Based Integrity to the IESG
