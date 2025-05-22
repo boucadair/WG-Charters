@@ -27,7 +27,7 @@ The MBONED WG activity will include, but not be limited to:
   
 Development of routing protocols, forwarding-plane solutions and extensions, and group membership protocols is out of scope.  The working group may develop requirements and assist in review and
 feedback of documents in other working groups responsible for such
-protocols (e.g., PIM, BIER, BESS and LISP). Likewise, the working group
+protocols (e.g., PIM, BIER, BESS, and LISP). Likewise, the working group
 will solicit inputs for its chartered work and assist in review for
-relevant work in other working groups (e.g., MOPS, TSVWG, MANET, and
+relevant work in other working groups (e.g., MOPS, TSVWG, NETCONF, and
 SAAG).
