@@ -25,8 +25,9 @@ The MBONED WG activity will include, but not be limited to:
 - Develop data models and other automation building blocks related
   to the operation of multicast services.
   
-Development of routing protocols, forwarding-plane solutions and extensions, and group membership protocols is out of scope.
-
-The working group may develop requirements and assist in review and 
-feedback of documents in other working groups responsible for such 
-protocols (e.g., PIM, BIER, and MOPS). Likewise, the working group will solicit inputs for its chartered work from other working groups (e.g., TSVWG, SAAG, and NETCONF).
+Development of routing protocols, forwarding-plane solutions and extensions, and group membership protocols is out of scope.  The working group may develop requirements and assist in review and
+feedback of documents in other working groups responsible for such
+protocols (e.g., PIM, BIER, BESS and LISP). Likewise, the working group
+will solicit inputs for its chartered work and assist in review for
+relevant work in other working groups (e.g., MOPS, TSVWG, MANET, and
+SAAG).
