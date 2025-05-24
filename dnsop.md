@@ -1,47 +1,21 @@
-The DNS Operations Working Group will develop guidelines for the
-operation of DNS software and services and for the administration
-of DNS zones. These guidelines will provide technical information
-relating to the implementation of the DNS protocol by the operators
-and administrators of DNS zones. The group will perform the following
-activities:
+The DNSOP WG defines and documents the deployment and operational considerations for the DNS protocol. The WG also provides deployment guidance and elaborates best current practices for DNS deployments.
 
-1. Describe practices by which Domain Name System (DNS) software
-may be efficiently and correctly administered, configured, and
-operated on Internet networks. This will include root zone name
-servers, TLD name servers, or any other resolver or server
-functioning as part of the global DNS. As part of this effort,
-the group will produce documents explaining to the general
-Internet community what processes and mechanisms should be
-employed for the effective management and operation of DNS
-software and services, including root, TLD, and recursive servers.
+DNSOP provides DNS operators and other interested parties a venue to engage in discussions around the operational requirements of DNS. Specifically, DNSOP WG welcomes presentations from DNS operators, implementers, and users who wish to share operational experience, challenges, and lessons learned, as well as other work within scope for the working group.
 
-2. Publish documents concerning DNSSEC operational procedures.
+The DNSOP WG is also responsible for maintenance, updates, and extensions to the DNS protocol.
+This maintenance work might be offloaded to a dedicated WG, likely in the INT area, so that DNSOPS focuses on operational matters. Such split will be considered when DELEG has finished it work. A WG rechartering will be considered in due time.
 
-3. Publish documents concerning DNS operational
-procedures in IPv6 and mixed IPv6-IPv4 networks, and provide
-documentation and guidance on DNS-related IPv6 transition and
-coexistence issues.
+The WG will engage with relevant WGs and other appropriate organizations whenever collaboration is needed. DNSOP will liaise with IANA on the management of IANA's DNS-related registries.
 
-4. Publish documents to address operational issues with the DNS
-protocols by extending or performing protocol maintenance
-on them. Act as focal-point for operator discussion and provide
-advice to the Ops ADs and other WGs on EDNS0 options, new
-RRTYPEs, DNSSEC, record synthesis, or other mechanics of
-extending DNS to support other applications.
+Milestones 
 
-5. Serve as a home for drafts that document the problem space
-around existing or new DNS issues. The group, with the advice
-and consent of the responsible AD in coordination with other areas,
-will then decide whether these issues belong in DNSOP under
-the existing charter and, if not, will work with the authors and
-appropriate ADs to determine the proper place for the work to be
-carried out.
+* DATE: Submit Structured Error Data for Filtered DNS to the IESG
+* DATE: Submit Delegation Revalidation by DNS Resolvers to the IESG
+* DATE: Submit Clarifications on CDS/CDNSKEY and CSYNC Consistency to the IESG
+* DATE: Submit DNS IPv6 Transport Operational Guidelines to the IESG
+* DATE: Submit Domain Control Validation using DNS to the IESG
+* DATE: Submit Using DAN with SVCB and QUIC to the IESG
+* DATE: Submit Greasing Protocol Extension Points in the DNS to the IESG
+* DATE: Submit An update of DNS Security Extensions (DNSSEC) to the IESG
+* DATE: Submit A Roadmap for DNS to the IESG 
 
-6. Publish documents that attempt to better define the overlapping
-area among the public DNS root, DNS-like names as used in local
-or restricted naming scopes, and the 'special names' registry
-that IETF manages, perhaps including how they might interact.
-This work must take into consideration issues that are strictly
-beyond the operation of the DNS itself, and the working group
-will consult with IETF liaisons to other organizations as
-appropriate.
