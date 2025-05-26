@@ -2,9 +2,9 @@
 
 The DNSOP WG defines and documents the deployment and operational considerations for the DNS protocol. The WG also provides deployment guidance and elaborates best current practices for DNS deployments.
 
-DNSOP provides DNS operators and other interested parties a venue to engage in discussions around the operational requirements of DNS. Specifically, DNSOP WG welcomes presentations from DNS operators, implementers, and users who wish to share operational experience, challenges, and lessons learned, as well as other work within scope for the working group.
-
 The DNSOP WG is also responsible for maintenance, updates, and extensions to the DNS protocol.
+
+DNSOP provides DNS operators and other interested parties a venue to engage in discussions around the operational requirements of DNS. Specifically, DNSOP WG welcomes presentations from DNS operators, implementers, and users who wish to share operational experience, challenges, and lessons learned, as well as other work within scope for the working group.
 
 The WG will engage with relevant WGs and other appropriate organizations whenever collaboration is needed. DNSOP will liaise with IANA on the management of IANA's DNS-related registries.
 
