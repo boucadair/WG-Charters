@@ -23,6 +23,6 @@ The WG will engage with relevant WGs and other appropriate organizations wheneve
 
 # Discussion for the WG
 
-This maintenance work might be offloaded to a dedicated WG, likely in the INT area, so that DNSOPS focuses on operational matters. Such split might be considered when DELEG has finished it work. A WG rechartering might be considered in due time.
+The protocol maintenance work might be offloaded to a dedicated WG, likely in the INT area, so that DNSOPS focuses on operational matters. Such split might be considered when DELEG has finished it work. A WG rechartering might be considered in due time.
 
 Do we need mention that plan in the Charter itself or not?
