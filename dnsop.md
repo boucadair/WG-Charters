@@ -15,7 +15,7 @@ The WG will engage with relevant WGs and other appropriate organizations wheneve
 * DATE: Submit Clarifications on CDS/CDNSKEY and CSYNC Consistency to the IESG
 * DATE: Submit DNS IPv6 Transport Operational Guidelines to the IESG
 * DATE: Submit Domain Control Validation using DNS to the IESG
-* DATE: Submit Using DAN with SVCB and QUIC to the IESG
+* DATE: Submit Using DANE with SVCB and QUIC to the IESG
 * DATE: Submit Greasing Protocol Extension Points in the DNS to the IESG
 * DATE: Submit An update of DNS Security Extensions (DNSSEC) to the IESG
 * DATE: Submit A Roadmap for DNS to the IESG 
