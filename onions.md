@@ -28,7 +28,7 @@ The ONIONS WG will produce recommendations and tools to operationalize YANG APIs
 
 | Date                      | Milestone | Description |
 |---------------------------|-----------| -------------|
-| October 2025              | Send LSes to TMF, 3GPP, BBF, Linux Foundations about ONIONS | Actively seek for collaboration with other orgnizations|
+| October 2025              | Send LSes to TMF, 3GPP, BBF, Linux Foundations about ONIONS | Actively seek for collaboration with other organizations|
 | March 2026                | WG adoption of YANG2API problem statement and requirements | Draft detailing the problem and requirements for operationalizing YANG APIs|
 | March 2026               | Development of tools/code for YANG2API|Initial set of tools and guidelines for generating APIs from YANG models|
 | July 2026                |LxNM refresh draft adoption |Updated drafts for L2NM and L3NM models based on deployment experience; and an attention to operational data|
