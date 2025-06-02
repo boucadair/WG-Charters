@@ -3,8 +3,8 @@ As the ONIONS [charter](./onions.md) is being discussed, here is an initial list
 ## Charter
 |WG|Remarks|
 |--|--|
-|TEAS||
-|CCAMP||
+|TEAS|Offload some of the abstraction work on data modelling to ONIONS (slicing applicability, VN, transport model, ACTN); TEAS can continue specify data models for the protocols/protocol extensions defined in TEAS|
+|CCAMP|Offload data modelling abstraction work to ONIONS; CCAMP can continue specify data models for the protocols/protocol extensions defined in CCAMP|
 |OPSAWG|Offload AC/SAP/LxNM to ONIONS; Future relevant work on abstractions will be directed to ONIONS|
 |NMOP|Topology matters stay in NMOP|
 
