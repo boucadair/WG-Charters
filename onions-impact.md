@@ -10,7 +10,7 @@ As the ONIONS [charter](./onions.md) is being discussed, here is an initial list
 
 
 ## I-Ds
-|WG|I-D|Title|Stay in Current WG or Move to ONIONS?|
+|WG|I-D|Title|Stay (S) in Current WG or Move (M) to ONIONS?|
 |--|--|--|--|
 |TEAS|draft-ietf-teas-network-slice-topology-yang|IETF Network Slice Topology YANG Data Model|M|
 |TEAS|draft-ietf-teas-5g-network-slice-application|IETF Network Slice Application in 3GPP 5G End-to-End Network Slice|S|
