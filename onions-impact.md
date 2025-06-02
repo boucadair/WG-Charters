@@ -13,6 +13,7 @@ As the ONIONS [charter](./onions.md) is being discussed, here is an initial list
 |WG|I-D|Title|Remarks|
 |--|--|--|--|
 |TEAS||||
-|CCAMP||||
+|CCAMP|draft-ietf-ccamp-yang-otn-slicing|||
+|CCAMP|draft-ietf-ccamp-actn-optical-transport-mgmt|||
 |OPSAWG||||
 |NMOP||||
