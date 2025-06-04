@@ -2,7 +2,7 @@
 
 > This is a retooling of the [raw version](onions-raw.md).  See that document for reference.
 
-The Operationalizing Network & service abstractIONS (ONIONS) Working Group aims to facilitate the operationalization of network and service abstractions across IETF efforts, with the goal of improving network automation, operational efficiency, and interoperability.
+The Operationalizing Network & service abstractIONS (ONIONS) Working Group aims to make it easier to implement and use the IETF-wide service and network abstractions work, with the goal of improving network automation, operational efficiency, and interoperability.
 
 Abstraction, for the purposes of this working group, refers to the process of defining simplified, high-level constructs that represent network and service-level capabilities, enabling interaction and automation without directly exposing the underlying device-specific implementations.
 
