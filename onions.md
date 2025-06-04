@@ -35,7 +35,7 @@ The ONIONS WG will produce recommendations and tools to operationalize YANG APIs
 | March 2026               | Development of tools/code for YANG2API|Initial set of tools and guidelines for generating APIs from YANG models|
 | July 2026                |LxNM refresh draft adoption |Updated drafts for L2NM and L3NM models based on deployment experience; and an attention to operational data|
 | November 2026            |Submission of LxNM refresh for IESG review |Refined L2NM and L3NM drafts submitted for IESG review|
-| July 2026                |AC Data Models applicability draft adoption |Draft assessing AC data models for network/cloud contexts|
-| November 2026            |Finalization of AC Data Models draft |Submission of AC applicability draft for IESG review|
+| July 2026                |Attachment Circuits (AC) Data Models applicability draft adoption |Draft assessing AC data models for network/cloud contexts|
+| November 2026            |Finalization of Attachment Circuits (AC) Data Models draft |Submission of AC applicability draft for IESG review|
 | March 2026               |Abstraction mapping approaches draft |Draft exploring methods for mapping between abstraction layers|
 | Ongoing as work progresses |Hackathon to demonstrate abstractions |Hackathon event showcasing vendor collaboration and abstraction feasibility|
