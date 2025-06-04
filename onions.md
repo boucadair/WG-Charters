@@ -4,6 +4,8 @@
 
 The Operationalizing Network & service abstractIONS (ONIONS) Working Group aims to facilitate the operationalization of network and service abstractions across IETF efforts, with the goal of improving network automation, operational efficiency, and interoperability.
 
+Abstraction, for the purposes of this working group, refers to the process of defining simplified, high-level constructs that represent network and service-level capabilities, enabling interaction and automation without directly exposing the underlying device-specific implementations.
+
 To achieve this, ONIONS will serve as the focal point for network and service abstraction modeling in the IETF. This includes (1) providing a comprehensive overview of operational needs and motivations for network and service abstractions, (2) structuring efforts on service and network models, including their maintenance and integration with underlying device models, (3) defining and maintaining models for network and service abstractions (e.g., L3SM, L2SM, L2NM, L3NM, ACaaS, SAP, Slicing, SAIN, VN, and ACTN) based on operational feedback, and (4) exploring approaches for mapping between various abstraction layers to enable seamless interoperability.
 
 ONIONS will also develop recommendations for operationalizing YANG-based APIs (YANG2API). This involves investigating and defining the components required to programmatically transform YANG modules into open API specifications for easier consumption by operators and systems, as well as assessing the applicability of abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
