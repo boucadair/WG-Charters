@@ -18,6 +18,10 @@ The MBONED WG activity will include, but not be limited to:
 - Develop mechanisms and procedures for sharing operational information
   to aid in operation of the multicast backbones and interconnects.
 
+- Explore and develop tools and mechanisms applicable to multicast
+  deployment in emerging environments (e.g., decentralized systems and overlay networks) or other contexts
+  where conventional deployment models may not suffice.
+
 - Develop and maintain tools and protocols that assist in multicast administration,
   diagnostics, troubleshooting, and deployment between/within native and 
   non-native environments (e.g., Mtrace and Automatic Multicast Tunneling (AMT)).
