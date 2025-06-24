@@ -1,40 +1,24 @@
-The MBONE Deployment (MBONED) Working Group is a forum for coordinating the
-deployment, engineering, and operation of multicast routing protocols 
-and procedures in the global Internet, inter-domain and single domain. The MBONED WG 
-is chartered to produce Standards Track, Informational, Best Current Practices, and Experimental RFCs.
-The MBONED WG activity will include, but not be limited to:
+The MBONE Deployment Working Group (MBONED WG) is a forum for coordinating the deployment, engineering, and operation of multicast routing protocols and procedures in the global Internet, inter-domain and single domain. Specifically, the focus of the MBONED WG is practical and deployment-driven, with an emphasis on operational experience and the advancement of multicast technologies in diverse environments. The MBONED WG is chartered to produce Standards Track, Informational, Best Current Practices (BCP), and Experimental RFCs as appropriate. 
 
-- Document deployment of multicast routing in the global Internet.
+The MBONED WG activity will include, but is not be limited to, the following work areas:
 
-- Receive regular reports on the current state of the deployment of
-  multicast technology.
+* Document deployment of multicast routing in the global Internet.
 
-- Capture the experience of those who have deployed and are deploying
-  various multicast technologies.
+* Receive regular reports on the current state of the deployment of multicast technology.
 
-- Develop and maintain mechanisms and procedures to address transport
-  and security gaps inhibiting the deployment of multicast.
+* Capture the operational experience of those who have deployed and are deploying various multicast technologies.
 
-- Develop mechanisms and procedures for sharing operational information
-  to aid in operation of the multicast backbones and interconnects.
+* Identify, develop, and maintain mechanisms to address transport-layer and security-related gaps that hinder broader multicast deployment.
 
-- Explore and develop tools and mechanisms applicable to multicast
-  deployment in emerging environments (e.g., decentralized systems and overlay networks) or other contexts
-  where conventional deployment models may not suffice.
+* Develop mechanisms and procedures for sharing operational information to aid in operation of the multicast backbones and interconnects.
 
-- Develop and maintain tools and protocols that assist in multicast administration,
-  diagnostics, troubleshooting, and deployment between/within native and 
-  non-native environments (e.g., Mtrace and Automatic Multicast Tunneling (AMT)).
+* Investigate and define tools and mechanisms applicable to multicast deployment in emerging environments (e.g., decentralized systems and overlay networks) or other contexts where conventional deployment models may not suffice.
 
-- Develop data models and other automation building blocks related
-  to the operation of multicast services.
-  
-Development of routing protocols, forwarding-plane solutions and extensions, and group membership protocols is out of scope.  The working group may develop requirements and assist in review and
-feedback of documents in other working groups responsible for such
-protocols (e.g., PIM, BIER, BESS, and LISP). Likewise, the working group
-will solicit inputs for its chartered work and assist in review for
-relevant work in other working groups (e.g., MOPS, TSVWG, NETCONF, and
-SAAG).
+* Specify and maintain tools, protocols, and procedures that assist with multicast administration, diagnostics, troubleshooting, and interoperability between native and non-native multicast environments (e.g., Mtrace and Automatic Multicast Tunneling (AMT)). 
+
+* Develop data models and other automation building blocks related to the operation of multicast services.
+
+Development of routing protocols, forwarding-plane solutions and extensions, and group membership protocols is out of scope. The MBONED WG may assist in review of documents in other working groups responsible for such protocols (e.g., PIM, BIER, BESS, and LISP). Likewise, the MBONED WG will solicit inputs for its chartered work and assist in review for relevant work in other working groups (e.g., MOPS, TSVWG, CCWG, NETCONF, and SAAG).
 
 #  Milestones
 
