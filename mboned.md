@@ -1,6 +1,4 @@
-The MBONE Deployment Working Group (MBONED WG) is a forum for coordinating the deployment, engineering, and operation of multicast routing protocols and procedures in the global Internet, inter-domain and single domain. Specifically, the focus of the MBONED WG is practical and deployment-driven, with an emphasis on operational experience and the advancement of multicast technologies in diverse environments. The MBONED WG is chartered to produce Standards Track, Informational, Best Current Practices (BCP), and Experimental RFCs as appropriate. 
-
-The MBONED WG activity will include, but is not be limited to, the following work areas:
+The MBONE Deployment Working Group (MBONED WG) is a forum for coordinating the deployment, engineering, and operation of multicast routing protocols and procedures in the global Internet, inter-domain and single domain. The MBONED WG is chartered to produce Standards Track, Informational, Best Current Practices (BCP), and Experimental RFCs as appropriate. The MBONED WG activity will include, but is not be limited to, the following work areas:
 
 * Document deployment of multicast routing in the global Internet.
 
