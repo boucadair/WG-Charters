@@ -1,4 +1,4 @@
-The MBONE Deployment Working Group (MBONED WG) is a forum for coordinating the deployment, engineering, and operation of multicast routing protocols and procedures in the global Internet, inter-domain and single domain. The MBONED WG is chartered to produce Standards Track, Informational, Best Current Practices (BCP), and Experimental RFCs as appropriate. The MBONED WG activity will include, but is not be limited to, the following work areas:
+The Multicast Backbone Deployment Working Group (MBONED WG) is a forum for coordinating the deployment, engineering, and operation of multicast routing protocols and procedures in the global Internet, inter-domain and single domain. The MBONED WG is chartered to produce Standards Track, Informational, Best Current Practices (BCP), and Experimental RFCs as appropriate. The MBONED WG activity will include, but is not be limited to, the following work areas:
 
 * Receive regular reports on the current state of the deployment of multicast technology.
 
@@ -16,7 +16,7 @@ The MBONE Deployment Working Group (MBONED WG) is a forum for coordinating the d
 
 * Develop and maintain data models and other automation-enabling components related to the operation of multicast services.
 
-Development of routing protocols, forwarding-plane solutions and extensions, and group membership protocols is out of scope. The MBONED WG may assist in review of documents in other working groups responsible for such protocols (e.g., PIM, BIER, BESS, and LISP). Likewise, the MBONED WG will solicit inputs for its chartered work and assist in review for relevant work in other working groups (e.g., MOPS, TSVWG, CCWG, NETCONF, and SAAG).
+Development of routing protocols, forwarding-plane solutions and extensions, and group membership protocols is out of scope. The MBONED WG may assist in review of documents in other working groups responsible for such protocols (e.g., PIM, BIER, BESS, and LISP). Likewise, the MBONED WG will solicit inputs for its chartered work and assist in review for relevant work in other groups (e.g., MOPS, TSVWG, CCWG, NETCONF, and SAAG).
 
 #  Milestones
 
