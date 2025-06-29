@@ -7,6 +7,7 @@ As the ONIONS [charter](./onions.md) is being discussed, here is an initial list
 |CCAMP|Offload data modelling abstraction work to ONIONS; CCAMP can continue specify data models for the protocols/protocol extensions defined in CCAMP|
 |OPSAWG|Offload AC/SAP/LxNM to ONIONS; Future relevant work on abstractions will be directed to ONIONS|
 |NMOP|Topology matters stay in NMOP|
+|BESS|VPN device models stay in BESS. Future service/network models will be worked in ONIONS|
 
 
 ## I-Ds
@@ -21,4 +22,8 @@ As the ONIONS [charter](./onions.md) is being discussed, here is an initial list
 |CCAMP|draft-ietf-ccamp-yang-otn-slicing|Framework and Data Model for OTN Network Slicing|S|
 |CCAMP|draft-ietf-ccamp-actn-optical-transport-mgmt|Integrating YANG Configuration and Management into an Abstraction and Control of TE Networks (ACTN) System for Optical Networks|S|
 |OPSAWG||||
-|NMOP||||
+|NMOP|draft-ietf-nmop-simap-concept|SIMAP: Concept, Requirements, and Use Cases|S|
+|BESS|draft-ietf-bess-l3vpn-yang|Yang Data Model for BGP/MPLS L3 VPNs|S|
+|BESS|draft-ietf-bess-mvpn-yang|Yang Data Model for Multicast in MPLS/BGP IP VPNs|S|
+|BESS|draft-ietf-bess-l2vpn-yang|YANG Data Model for MPLS-based L2VPN|S|
+|BESS|draft-ietf-bess-evpn-yang|Yang Data Model for EVPN|S|
