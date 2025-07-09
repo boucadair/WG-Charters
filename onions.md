@@ -19,7 +19,7 @@ The ONIONS WG will evaluate realization approaches and perform gap analyses of i
 
 Furthermore, ONIONS will coordinate with the Routing Area and other relevant WGs to evaluate operational needs of abstraction-driven solutions (e.g., slicing). This will involve facilitating two-way coordination to ensure efficient alignment of efforts.
 
-The ONIONS WG will produce recommendations for tools using YANG-based APIs (YANG2API), updates to L2NM and L3NM models, assessments and recommendations for attachment circuits (AC) data models, approaches for mapping between abstraction layers, and guidelines for integrating IETF YANG models with external frameworks (e.g., TMF640). The ONIONS WG will also engage in hackathons and community-driven validation efforts to test and refine its outputs and produce proof-of-concept YANG2API tools.
+The ONIONS WG will produce recommendations for tools using YANG-based APIs (YANG2API), updates to L2NM and L3NM models, assessments and recommendations for attachment circuits (AC) data models, approaches for mapping between abstraction layers, and guidelines for integrating IETF YANG models with external frameworks (e.g., TMF640). The ONIONS WG will also engage in hackathons and community-driven validation efforts to test and refine its outputs, such as via a proof-of-concept YANG2API tools.
 
 ## Relationship With Existing WGs
 
