@@ -13,6 +13,8 @@ As the ONIONS [charter](./onions.md) is being discussed, here is an initial list
 ## I-Ds
 |WG|I-D|Title|Stay (S) in Current WG or Move (M) to ONIONS?|
 |--|--|--|--|
+|TEAS|draft-ietf-teas-te-service-mapping-yang|Traffic Engineering (TE) and Service Mapping YANG Data Model|?|
+|TEAS|draft-dhody-teas-ietf-network-slice-mapping|IETF Network Slice Service Mapping YANG Model|M|
 |TEAS|draft-ietf-teas-network-slice-topology-yang|IETF Network Slice Topology YANG Data Model|M|
 |TEAS|draft-ietf-teas-5g-network-slice-application|IETF Network Slice Application in 3GPP 5G End-to-End Network Slice|S|
 |TEAS|draft-ietf-teas-ns-controller-models|IETF Network Slice Controller and its Associated Data Models|M|
