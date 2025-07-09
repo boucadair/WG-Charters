@@ -10,7 +10,7 @@ To achieve this, ONIONS will serve as the focal point for network and service ab
 
 ONIONS will also develop recommendations for operationalizing YANG-based APIs (YANG2API). This involves defining the requirements to programmatically transform YANG modules into open API specifications for easier consumption by operators and systems. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
 
-The ONIONS WG will evaluate implementation approaches and perform gap analyses of intended abstractions. This involves assessing interactions with control and data plane features necessary to implement services within networks. The WG will identify and work towards addressing any identified gaps in the implementation of these abstractions, coordinating with relevant working groups as necessary.
+The ONIONS WG will evaluate implementation approaches and perform gap analyses of intended abstractions. This involves assessing interactions with control and data plane features necessary to implement services within networks. The WG will identify and work towards addressing any identified gaps in the implementation of these abstractions, coordinating with relevant WGs as necessary.
 
 Furthermore, ONIONS will coordinate with the Routing Area and other relevant WGs to evaluate operational needs of abstraction-driven solutions (e.g., slicing). This will involve facilitating two-way coordination to ensure efficient alignment of efforts.
 
