@@ -6,11 +6,16 @@ The Operationalizing Network & service abstractIONS (ONIONS) Working Group aims 
 
 For the purposes of this working group, the term "Abstraction" refers to the process of defining simplified, high-level constructs that represent network and service-level capabilities. Abstraction enables interaction between management components, and automation of management systems without directly exposing the underlying device-specific implementations.
 
-To achieve this, ONIONS will serve as the focal point for network and service abstraction modeling in the IETF. This includes (1) providing a comprehensive overview of operational needs and motivations for network and service abstractions, (2) structuring efforts on service and network models, including their maintenance and how they interact with underlying device models, (3) defining and maintaining models for network and service abstractions (e.g., L3SM, L2SM, L2NM, L3NM, ACaaS, SAP, Slicing, SAIN, VN, ACTN, and the automating service and network management framework) based on operational feedback, and (4) exploring approaches for mapping between various abstraction layers to enable seamless interoperability.
+To achieve this, ONIONS will serve as the focal point for network and service abstraction modeling in the IETF. This includes:
+
+1. providing a comprehensive overview of operational needs and motivations for network and service abstractions,
+1. structuring efforts on service and network models, including their maintenance and exploring their relationship with underlying device models,
+1. defining and maintaining models for network and service abstractions (i.e., at least the following models will be maintained by the WG: L2VPN Service Model \[L2SM], L3VPN Service Model \[L3SM], L2VPN Network Model \[L2NM], L3VPN Network Model \[L3NM], Attachment Circuit-as-a-Service \[ACaaS], Service Attachment Points \[SAP], Network Slicing, Service Assurance for Intent-Based Networking \[SAIN], Virtual Network \[VN], Abstraction and Control of TE Networks \[ACTN], and the automating service and network management framework), and
+1. exploring approaches for mapping between various abstraction layers to enable seamless interoperability.
 
 ONIONS will also develop recommendations for operationalizing YANG-based APIs (YANG2API). This involves defining the requirements to programmatically transform YANG modules into open API specifications for easier consumption by operators and systems. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
 
-The ONIONS WG will evaluate implementation approaches and perform gap analyses of intended abstractions. This involves assessing interactions with control and data plane features necessary to implement services within networks. The WG will identify and work towards addressing any identified gaps in the implementation of these abstractions, coordinating with relevant WGs as necessary.
+The ONIONS WG will evaluate realization approaches and perform gap analyses of intended abstractions. This involves assessing interactions with control and data plane features necessary to implement services within networks. The WG will identify and work towards addressing any identified gaps in the realization of these abstractions, coordinating with relevant working groups as necessary.
 
 Furthermore, ONIONS will coordinate with the Routing Area and other relevant WGs to evaluate operational needs of abstraction-driven solutions (e.g., slicing). This will involve facilitating two-way coordination to ensure efficient alignment of efforts.
 
@@ -18,10 +23,10 @@ The ONIONS WG will produce recommendations for tools using YANG-based APIs (YANG
 
 ## Relationship With Existing WGs
 
+* BESS/CCAMP/TEAS
+  * ONIONS will take on network and service data modeling efforts, allowing BESS, CCAMP, and TEAS to continue specifying models for protocols and protocol extensions (e.g., device models).
 * NMOP
   * ONIONS will focus on abstractions, while topology-related efforts will remain in NMOP.
-* TEAS/CCAMP
-  * ONIONS will take on network and service data modeling efforts (e.g., LxSM), allowing TEAS and CCAMP to continue specifying models for protocols and protocol extensions (e.g., device models).
 * OPSAWG
   * ONIONS will handle AC/SAP/LxNM work, enabling OPSAWG to focus on other operational topics.
   * Future abstraction-related work will be directed to ONIONS.
