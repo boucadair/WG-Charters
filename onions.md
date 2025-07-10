@@ -10,7 +10,7 @@ To achieve this, ONIONS will serve as the focal point for network and service ab
 
 1. providing a comprehensive overview of operational needs and motivations for network and service abstractions,
 1. structuring efforts on service and network models, including their maintenance and how they interact with underlying device models,
-1. defining and maintaining models for network and service abstractions (i.e., at least the following models will be maintained by the WG: L2VPN Service Model \[L2SM], L3VPN Service Model \[L3SM], L2VPN Network Model \[L2NM], L3VPN Network Model \[L3NM], Attachment Circuit-as-a-Service \[ACaaS], Service Attachment Points \[SAP], Network Slicing, Service Assurance for Intent-Based Networking \[SAIN], Virtual Network \[VN], Abstraction and Control of TE Networks \[ACTN], and the automating service and network management framework), and
+1. defining and maintaining models for network and service abstractions (i.e., at least the following models will be maintained by the WG: L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit-as-a-Service (ACaaS), Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the automating service and network management framework), and
 1. exploring approaches for mapping between various abstraction layers to enable seamless interoperability.
 
 ONIONS will also develop recommendations for operationalizing YANG-based APIs (YANG2API). This involves defining the requirements to programmatically transform YANG modules into open API specifications for easier consumption by operators and systems. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
@@ -38,8 +38,8 @@ The ONIONS WG will produce recommendations for tools using YANG-based APIs (YANG
 | Ongoing as work progresses |Hackathon to demonstrate abstractions |Hackathon event showcasing vendor collaboration, abstraction feasibility, and proof-of-concept YANG2API tooling| N/A|
 | October 2025              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundations, and EANTC about ONIONS | Actively seek for collaboration with other organizations|N/A| 
 | March 2026                | WG adoption of YANG2API problem statement and requirements | Draft detailing the problem and requirements for operationalizing YANG APIs| Info|
-| March 2026               |Abstraction mapping approaches draft |Draft exploring methods for mapping between abstraction layers| PS |
-| July 2026                |LxNM refresh draft adoption |Updated drafts for L2NM and L3NM models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
-| July 2026                |Attachment Circuits (AC) Data Models applicability draft adoption |Draft assessing AC data models for network/cloud contexts, including use-case driven applicability and potential extensions| Info |
-| November 2026            |Finalization of Attachment Circuits (AC) Data Models draft |Submission of AC applicability draft for IESG review| Info |
-| November 2026            |Submission of LxNM refresh for IESG review |Refined L2NM and L3NM drafts submitted for IESG review| PS|
+| March 2026               |WG adoption of Abstraction mapping approaches draft |Draft exploring methods for mapping between abstraction layers| PS |
+| July 2026                |WG adoption of L2NM/L3NM refresh draft |Updated drafts for L2NM and L3NM models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
+| July 2026                |WG adoption of Attachment Circuits (AC) Data Models applicability draft |Draft assessing AC data models for network/cloud contexts, including use-case driven applicability and potential extensions| Info |
+| November 2026            |Submission of Attachment Circuits (AC) Data Models draft|AC applicability draft submitted for IESG review| Info |
+| November 2026            |Submission of L2NM/L3NM refresh draft|Refined L2NM and L3NM drafts submitted for IESG review| PS|
