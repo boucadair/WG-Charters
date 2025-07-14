@@ -11,7 +11,7 @@ To achieve this, ONIONS will serve as the focal point for network and service ab
 1. providing a comprehensive overview of operational needs and motivations for network and service abstractions,
 1. structuring efforts on service and network models, including their maintenance and how they interact with underlying device models,
 1. defining and maintaining models for network and service abstractions (i.e., at least the following models will be maintained by the WG: L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit-as-a-Service (ACaaS), Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the automating service and network management framework), and
-1. specifying approaches for mapping between various abstraction layers to enable seamless interoperability.
+1. specifying approaches for mapping between various abstraction layers to enable seamless translation and integration.
 
 ONIONS will also develop recommendations for operationalizing YANG-based APIs (YANG2API). This involves defining the requirements to programmatically transform YANG modules into open API specifications for easier consumption by operators and systems. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
 
