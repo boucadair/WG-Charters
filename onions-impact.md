@@ -18,8 +18,8 @@ As the ONIONS [charter](./onions.md) is being discussed, here is an initial list
 |TEAS|draft-ietf-teas-network-slice-topology-yang|IETF Network Slice Topology YANG Data Model|M|
 |TEAS|draft-ietf-teas-5g-network-slice-application|IETF Network Slice Application in 3GPP 5G End-to-End Network Slice|S|
 |TEAS|draft-ietf-teas-ns-controller-models|IETF Network Slice Controller and its Associated Data Models|M|
-|TEAS|draft-ietf-teas-nrp-yang|YANG Data Models for Network Resource Partitions (NRPs)(1)|?|
-|TEAS|draft-ietf-teas-ns-ip-mpls|Realizing Network Slices in IP/MPLS Networks(1)|S|
+|TEAS|draft-ietf-teas-nrp-yang|YANG Data Models for Network Resource Partitions (NRPs)|S|
+|TEAS|draft-ietf-teas-ns-ip-mpls|Realizing Network Slices in IP/MPLS Networks|S|
 |TEAS|draft-ietf-teas-ns-models-applicability|Applicability of IETF-Defined Service and Network Data Models for Network Slice Service Management|M|
 |CCAMP|draft-ietf-ccamp-yang-otn-slicing|Framework and Data Model for OTN Network Slicing|S|
 |CCAMP|draft-ietf-ccamp-actn-optical-transport-mgmt|Integrating YANG Configuration and Management into an Abstraction and Control of TE Networks (ACTN) System for Optical Networks|S|
