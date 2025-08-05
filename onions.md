@@ -24,8 +24,9 @@ Some WG documents may not be published as IETF Stream RFCs and may instead be ma
 
 ## Relationship With Existing WGs
 
+* Technology- or protocol-specific modeling efforts (e.g., device-level YANG modules) remain the responsibility of their respective WGs.
 * BESS/CCAMP/TEAS
-  * ONIONS will take on network and service data modeling efforts, allowing BESS, CCAMP, and TEAS to continue specifying models for protocols and protocol extensions (e.g., device models).
+  * ONIONS will take on future network and service data modeling efforts, while Technology- or protocol-specific modeling efforts remains.
 * NMOP
   * ONIONS will focus on abstractions, while topology-related efforts will remain in NMOP.
 * OPSAWG
