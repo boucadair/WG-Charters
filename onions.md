@@ -20,6 +20,8 @@ Furthermore, ONIONS will coordinate with the Routing Area and other relevant WGs
 
 The ONIONS WG will collate tooling-related resources in the WG GitHub or Wiki, including but not limited to existing tools, gaps, recommendations, examples of their use, and relevant artifacts from hackathons or interoperability events. The WG will further produce recommendations for new tools (e.g. YANG-based APIs (YANG2API)).  The WG is expected to engage in hackathons and community-driven validation efforts to test and refine its outputs. Further, the ONIONS WG will produce updates to L2NM and L3NM models, assessments and recommendations for attachment circuits (AC) data models, and guidelines for integrating IETF YANG models with frameworks developed outside of the IETF (e.g., TMF640).
 
+Some WG documents may not be published as IETF Stream RFCs and may instead be maintained as Internet-Drafts to support ongoing WG activities.
+
 ## Relationship With Existing WGs
 
 * BESS/CCAMP/TEAS
