@@ -40,7 +40,7 @@ Some WG documents may not be published as IETF Stream RFCs and may instead be ma
 | Date                      | Milestone | Description | Intended Track |
 |---------------------------|-----------| -------------|:--------------:|
 | Ongoing as work progresses |Hackathon to demonstrate abstractions |Hackathon event showcasing vendor collaboration, abstraction feasibility, and proof-of-concept YANG2API tooling| N/A|
-| October 2025              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundations, and EANTC about ONIONS | Actively seek collaboration with other organizations|N/A|
+| October 2025              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, and EANTC about ONIONS | Actively seek collaboration with other organizations|N/A|
 | November 2025              | Setup central repository for tooling-related resources | Actively seek community inputs for maintaining it|N/A|
 | March 2026                | WG adoption of YANG2API problem statement and requirements | Draft detailing the problem and requirements for operationalizing YANG APIs| Info|
 | July 2026                |WG adoption of L2NM/L3NM refresh draft |Updated drafts for L2NM and L3NM models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
