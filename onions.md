@@ -1,7 +1,5 @@
 # ONIONS WG Charter
 
-> This is a retooling of the [raw version](onions-raw.md).  See that document for reference.
-
 The Operationalizing Network & service abstractIONS (ONIONS) Working Group aims to make it easier to implement and use the IETF's service and network abstractions, with the goal of improving network automation, operational efficiency, and interoperability.
 
 For the purposes of this WG, the term "Abstraction" refers to the process of defining simplified, high-level constructs that represent network and service-level capabilities. Abstraction enables interaction between management components, and automation of management systems without directly exposing the underlying device-specific implementations.
