@@ -47,37 +47,3 @@ There must be a continuous expression of interest for the Working Group to work 
 *  Deploying IPv6 in the Access Network - 31-12-2026
 *  IPv4 Versus IPv6 Performance - 31-12-2026
 *  draft-ietf-v6ops-icmpext-xlat-v6only-source - 31-12-2025
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Bonica                    Expires 22 March 2026                 [Page 4]
