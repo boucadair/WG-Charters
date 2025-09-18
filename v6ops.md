@@ -1,22 +1,32 @@
-The V6OPS Working Group (WG) facilitates the universal deployment of IPv6. It will focus on both IPv6 deployment and IPv6 traffic growth.
+The V6OPS Working Group (WG) facilitates the universal deployment of IPv6.  It will focus on both IPv6 deployment and IPv6 traffic growth.
 
-## Objectives
+# Objectives
 
-* Publish documents that demonstrate how IPv6 can be deployed in a specific environment.  Environments include, but are not limited to, data centers and enterprises.  They may also include WANs and access networks.
-* Publish a study that compares the performance of existing IPv4 networks to the performance of existing IPv6 networks. When IPv6 networks do not perform as well as IPv4 networks, identify the root causes if possible.
-* Publish documents that identify obstacles to IPv6 deployment. Each document should include an operational solution, if one is available.  These documents can be used as input to protocol-developing working groups.
+*  Publish documents that demonstrate how IPv6 can be deployed in a specific environment.  Environments include, but are not limited to, data centers and enterprises. They may also include WANs and access networks.
+
+*  Publish a study that compares the performance of existing IPv4 networks to the performance of existing IPv6 networks.  When IPv6 networks do not perform as well as IPv4 networks, identify the root causes if possible.
+
+*  Publish documents that identify obstacles to IPv6 deployment. Each document should include an operational solution, if one is available.  These documents can be used as input to protocol-developing working groups.
+
 *  Publish use cases, migration strategies, and best practices that enable IPv6-only operation.
+
 *  Publish documents explaining IPv6's advantages over IPv4 (for example, features that reduce operational complexity and improve reliability).
-*  Maintain specifications of widely deployed transition mechanisms (including updating those published as Informational to Standards Track and Proposed Standard to Internet Standard)
+
+*  Maintain specifications of widely deployed transition mechanisms (including updating those published as Informational to Standards Track and Proposed Standard to Internet Standard).
+
 *  Maintain documents that the working group has published in the past.
-*  Maintain a wiki page that includes a list of applications that perform well in IPv4 networks but do not perform well in IPv6 networks
-*  Maintain several wiki pages that report on network monitoring experiments. A network monitoring experiment describes the externally observable bhavior of the IPv6-enabled internet.  For example, it might report on the following:
-    + The likelihood of a packet with a particular IPv6 extension header being delivered from end to end.
-    + The likelihood of a packet with a long IPv6 extension header chain being delivered from end to end.
-    + The likelihood of an IPv6 flow label being modified in transit.
+
+*  Maintain a wiki page that includes a list of applications that perform well in IPv4 networks but do not perform well in IPv6 networks.
+
+*  Maintain several wiki pages that report on network monitoring experiments.  A network monitoring experiment describes the externally observable bhavior of the IPv6-enabled internet. For example, it might report on the following:
+
+      + The likelihood of a packet with a particular IPv6 extension header being delivered from end to end.
+      + The likelihood of a packet with a long IPv6 extension header chain being delivered from end to end.
+      + The likelihood of an IPv6 flow label being modified in transit.
+
 *  Develop educational resources that facilitate the the universal deployment of IPv6. These might include preentations, FAQs, and other tools.
 
-## WG Practices
+# WG Practices
 
 In order to achieve these goals, the WG will work with IPv6 Forum and the regional network operators' groups.  It will also interact with the HAPPY and SRV6OPS WG, exchanging information and being mindfull of each WG's charter.
 
@@ -26,14 +36,48 @@ Occasionally, deployment issues will require protocol enhancements. Protocol enh
 
 Future work items within this scope will be adopted by the Working Group only if there is a substantial expression of interest from the community and if the work clearly does not fit elsewhere in the IETF.
 
-There must be a continuous expression of interest for the Working Group to work on a particular work item. If there is no longer sufficient interest in the Working Group in a work item, the item may be removed from the list of Working Group items.
+There must be a continuous expression of interest for the Working Group to work on a particular work item.  If there is no longer sufficient interest in the Working Group in a work item, the item may be removed from the list of Working Group items.
 
-## Milestones
+# Milestones
 
-   *  Wiki Page available - 31-12-2025
-   *  Deploying IPv6 in the WAN - 31-12-2026
-   *  Deploying IPv6 in the Data Center - 31-12-2026
-   *  Deploying IPv6 in the Enterprise - 31-12-2026
-   *  Deploying IPv6 in the Access Network - 31-12-2026
-   *  IPv4 Versus IPv6 Performance - 31-12-2026
-   *  draft-ietf-v6ops-icmpext-xlat-v6only-source - 31-12-2025
+*  Wiki Pages available - 31-12-2025
+*  Deploying IPv6 in the WAN - 31-12-2026
+*  Deploying IPv6 in the Data Center - 31-12-2026
+*  Deploying IPv6 in the Enterprise - 31-12-2026
+*  Deploying IPv6 in the Access Network - 31-12-2026
+*  IPv4 Versus IPv6 Performance - 31-12-2026
+*  draft-ietf-v6ops-icmpext-xlat-v6only-source - 31-12-2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bonica                    Expires 22 March 2026                 [Page 4]
