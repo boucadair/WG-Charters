@@ -22,9 +22,9 @@ The V6OPS Working Group (WG) facilitates the universal deployment of IPv6.  It w
 
 * Maintain several wiki pages that report on network monitoring experiments.  A network monitoring experiment describes the externally observable bhavior of the IPv6-enabled Internet. For example, it might report on the following:
 
-      + The likelihood of a packet with a particular IPv6 extension header being delivered from end to end.
-      + The likelihood of a packet with a long IPv6 extension header chain being delivered from end to end.
-      + The likelihood of an IPv6 flow label being modified in transit.
+    + The likelihood of a packet with a particular IPv6 extension header being delivered from end to end.
+    + The likelihood of a packet with a long IPv6 extension header chain being delivered from end to end.
+    + The likelihood of an IPv6 flow label being modified in transit.
 
 * Develop educational resources that facilitate the universal deployment of IPv6. These might include preentations, FAQs, and other tools.
 
