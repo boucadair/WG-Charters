@@ -1,4 +1,4 @@
-The V6OPS Working Group (WG) facilitates the universal deployment of IPv6.  It will focus on both IPv6 deployment and IPv6 traffic growth.
+The V6OPS Working Group (WG) facilitates the universal deployment of IPv6. It will focus on both IPv6 deployment and IPv6 traffic growth.
 
 # Objectives
 
@@ -42,10 +42,17 @@ There must be a continuous expression of interest for the WG to work on a partic
 
 # Milestones
 
-*  Wiki Pages available - 31-12-2025
-*  Deploying IPv6 in the WAN - 31-12-2026
-*  Deploying IPv6 in the Data Center - 31-12-2026
-*  Deploying IPv6 in the Enterprise - 31-12-2026
-*  Deploying IPv6 in the Access Network - 31-12-2026
-*  IPv4 Versus IPv6 Performance - 31-12-2026
-*  draft-ietf-v6ops-icmpext-xlat-v6only-source - 31-12-2025
+*  12/26: Adopt Deploying IPv6 in the WAN
+*  12/26: Adopt Deploying IPv6 in the Data Center
+*  12/26: Adopt Deploying IPv6 in the Enterprise
+*  12/26: Adopt Deploying IPv6 in the Access Network
+*  12/26: Adopt IPv4 Versus IPv6 Performance
+*  06/26: Submit draft-ietf-v6ops-rfc7084bis to the IESG for publication
+*  06/26: Submit draft-ietf-aaaa-filtering to the IESG for publication
+*  12/2025: Wiki Pages available
+*  12/2025: Submit draft-ietf-v6ops-icmpext-xlat-v6only-source to the IESG for publication
+*  12/2025: Submit draft-ietf-v6ops-6mops to the IESG for publication
+*  12/2025: Submit draft-ietf-v6ops-framework-md-ipv6only-underlay to the IESG for publication
+*  10/2025: Submit draft-ietf-v6ops-claton to the IESG for publication  
+
+  
