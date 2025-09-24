@@ -8,14 +8,14 @@ To achieve this, ONIONS will serve as the focal point for network and service ab
 
 1. Providing a comprehensive overview of operational needs and motivations for network and service abstractions,
 1. Structuring efforts on service and network YANG data models, including their maintenance and how they interact with underlying device YANG data models,
-1. Defining and maintaining YANG data models for network and service abstractions. At least the following YANG data models will be maintained by the WG: L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit-as-a-Service (ACaaS), Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring,
-1. Evaluate whether YANG data model activities in (3) necessitate changing Automating Service and Network Management Framework.
+1. Defining and maintaining YANG data models for network and service abstractions,
+1. Evaluating whether YANG data model activities in (3) necessitate changing Automating Service and Network Management Framework.
 
 The ONIONS WG will also develop recommendations for operationalizing YANG-based APIs (YANG2API). This involves defining the requirements to programmatically transform YANG data models into API specifications for easier consumption by operators and systems. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
 
 The ONIONS WG will evaluate realization approaches and perform gap analyses of intended abstractions. This involves assessing interactions with control and data plane features necessary to implement services within networks. The WG will identify and work towards addressing any identified gaps in the realization of these abstractions, coordinating with relevant WGs as necessary.
 
-Furthermore, ONIONS WG will coordinate with the Routing Area and relevant WGs to evaluate operational needs of abstraction-driven solutions (e.g., network slicing). YANG data models that are currently being progressed in other WGs, but are relevant to the ONIONS WG charter, will only be moved to ONIONS with agreement from the relevant ADs.
+Furthermore, ONIONS WG will coordinate with the Routing Area and relevant WGs to evaluate operational needs of abstraction-driven solutions (e.g., network slicing). YANG data models that are currently being progressed in other WGs, but are relevant to the ONIONS WG charter, will only be moved to ONIONS with agreement from the relevant ADs, and rough consensus from the originating WG. Moreover, ONIONS WG will inform relevant Routing Area WGs as appropriate (especially during adoption and WGLC) while the actual discussions happen on the ONIONS list.
 
 The ONIONS WG will catalogue tooling-related resources in the WG GitHub or Wiki, including but not limited to existing tools, gaps, recommendations, examples of their use, example implementations, and relevant artifacts from hackathons or interoperability events. The WG will produce recommendations for new interfaces (e.g., YANG-based APIs (YANG2API)).  The WG is expected to encourage and support members to participate in hackathons and community-driven validation efforts to test and refine its outputs. Further, the ONIONS WG will produce updates to L2NM and L3NM YANG data models, assessments and recommendations for attachment circuits (AC) YANG data models, and guidelines for integrating IETF YANG data models with frameworks developed outside of the IETF (e.g., TMF640).
 
@@ -26,13 +26,10 @@ Some WG documents might not be published as IETF Stream RFCs and may instead be 
 * Technology- or protocol-specific modeling efforts (e.g., device-level YANG data models) remain the responsibility of their respective WGs.
 * ONIONS WG will engage with other relevant working groups (e.g., NETMOD, NMOP) to gather requirements and input related to tooling.
 * Any new requirements for changes to the YANG language identified during ONIONS WG discussions will be directed to the NETMOD WG for consideration.
-* BESS/CCAMP/TEAS
-  * ONIONS WG will take on future network and service data modeling efforts, while Technology- or protocol-specific modeling efforts remain.
-* NMOP
-  * ONIONS WG will focus on abstractions, while topology-related efforts will remain in NMOP.
-* OPSAWG
-  * ONIONS WG will handle AC/SAP/L2NM/L3NM work, enabling OPSAWG to focus on other operational topics.
-  * Future abstraction-related work will be directed to ONIONS.
+* BESS/CCAMP/TEAS: ONIONS WG will take on future network and service data modeling efforts, while Technology- or protocol-specific modeling efforts remain.
+* NMOP: ONIONS WG will focus on abstractions, while topology-related efforts will remain in NMOP. Network topology models are out of scope of ONIONS.
+* OPSAWG: ONIONS WG will handle AC/SAP/L2NM/L3NM work, enabling OPSAWG to focus on other operational topics. Future abstraction-related work will be directed to ONIONS.
+
 
 ## Milestones
 
