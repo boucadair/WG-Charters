@@ -2,11 +2,11 @@ The V6OPS Working Group (WG) facilitates the universal deployment of IPv6. It wi
 
 # Objectives
 
-*  Publish documents that guide or demonstrate how IPv6 can be deployed in a specific environment such as data centers, enterprise networks, WAN, and access networks.
-
-* Publish documents summarizing requirements and defining best practices for nodes, applications, and services adopting and operating over IPv6. 
+* Publish documents that demonstrate how IPv6 can be deployed in a specific environment, such as data centers, enterprise networks,  WAN, access networks, etc.
 
 * Publish a study that compares the performance of existing IPv4 networks to the performance of existing IPv6 networks.  When IPv6 networks do not perform as well as IPv4 networks, identify the root causes if possible.
+
+* Investigate and document use cases where dual-stack hosts prefer IPv4 or fail to utilize available IPv6 connectivity.
 
 * Publish documents that identify obstacles to IPv6 deployment. Each document should include an operational solution, if one is available.  These documents can be used as input to protocol-developing WGs.
 
@@ -34,7 +34,7 @@ In order to achieve these goals, the WG will work with the regional network oper
 
 The V6OPS WG will continue to progress documents that it adopted prior to the adoption of this charter.
 
-Occasionally, deployment issues will require protocol enhancements. Protocol enhancements are the responsibility of the groups that developed the protocols. However, the V6OPS WG may provide input to those groups and cooperate with them in reviewing solutions to IPv6 deployment problems.
+Occasionally, deployment issues will require protocol enhancements. Protocol enhancements are the responsibility of the WGs that developed the protocols. However, the V6OPS WG may provide input to those WGs and cooperate with them in reviewing solutions to IPv6 deployment problems. Additionally, the V6OPS WG may develop enhancements for IPv6 transition protocols, developed by concluded WGs.
 
 Future work items within this scope will be adopted by the WG only if there is a substantial expression of interest from the community and if the work clearly does not fit elsewhere in the IETF.
 
