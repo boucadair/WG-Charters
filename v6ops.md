@@ -14,7 +14,7 @@ The V6OPS Working Group (WG) facilitates the universal deployment of IPv6. It wi
 
 *  Publish documents explaining IPv6's advantages over IPv4 (e.g., features that reduce operational complexity and improve reliability).
 
-*  Maintain specifications of widely deployed transition mechanisms (including updating those published as Informational to Standards Track and Proposed Standard to Internet Standard).
+*  Maintain specifications of widely deployed transition mechanisms (including updating those published as Informational to Standards Track and Proposed Standard to Internet Standard). This includes NAT64, Stateless IP/ICMP Translation Algorithm (SIIT), Explicit Address Mappings (EAM), and 464XLAT.
 
 *  Publish documents summarizing requirements and defining best practices nodes, applications, and services adopting and operating over IPv6.
 
@@ -38,7 +38,7 @@ In order to achieve these goals, the WG will work with IPv6 Forum and the region
 
 The WG will continue to progress documents that it adopted prior to the adoption of this charter.
 
-Occasionally, deployment issues will require protocol enhancements. Protocol enhancements are the responsibility of the WGs that developed the protocols, if such WGs are not concluded. However, the V6OPS WG may provide input to those WGs and cooperate with them in reviewing solutions to IPv6 deployment problems. Additionally, the V6OPS WG may develop enhancements for IPv6 transition protocols, developed by concluded WGs.
+Occasionally, deployment issues will require protocol enhancements. Protocol enhancements are the responsibility of the WGs that developed the protocols, if such WGs are not concluded. However, the V6OPS WG may provide input to those WGs and cooperate with them in reviewing solutions to IPv6 deployment problems. In exceptional cases, the V6OPS WG may develop enhancements for IPv6 transition protocols, other than those listed above, via re-chartering.
 
 Future work items within this scope will be adopted by the WG only if there is a substantial expression of interest from the community and if the work clearly does not fit elsewhere in the IETF.
 
