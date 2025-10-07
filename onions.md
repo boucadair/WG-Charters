@@ -9,7 +9,7 @@ To achieve this goal, the ONIONS WG will serve as the focal point for network an
 1. Providing a comprehensive overview of operational needs and motivations for network and service abstractions,
 1. Structuring efforts on service and network YANG data models, including their maintenance and how they interact with underlying device YANG data models,
 1. Defining and maintaining YANG data models for network and service abstractions,
-1. Evaluating whether YANG data model activities in (3) necessitate changing the Automating Service and Network Management Framework as per RFC 8969.
+1. Evaluating whether YANG data model activities in (3) necessitate changing the Automating Service and Network Management Framework defined in RFC 8969.
 
 The ONIONS WG will also develop recommendations for operationalizing YANG-based APIs (YANG2API). This involves defining the requirements to programmatically transform YANG data models into API specifications for easier consumption by operators and systems. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
 
