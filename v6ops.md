@@ -36,7 +36,7 @@ The V6OPS Working Group (WG) facilitates the universal deployment of IPv6. It wi
 
 In order to achieve these goals, the WG will work with IPv6 Forum and the regional network operators' groups.  It will also interact with the HAPPY and SRV6OPS WGs, exchanging information and being mindful of each WG's charter.
 
-The WG will continue to progress documents that it adopted prior to the adoption of this charter. This includes in particular draft-ietf-v6ops-icmpext-xlat-v6only-source.
+The WG will continue to progress documents that it adopted prior to the adoption of this charter.
 
 Occasionally, deployment issues will require protocol enhancements. Protocol enhancements are the responsibility of the WGs that developed the protocols, if such WGs are not concluded. However, the V6OPS WG may provide input to those WGs and cooperate with them in reviewing solutions to IPv6 deployment problems. In exceptional cases, the V6OPS WG may develop enhancements for IPv6 transition protocols, other than those listed above, via re-chartering.
 
