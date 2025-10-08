@@ -14,11 +14,11 @@ The V6OPS Working Group (WG) facilitates the universal deployment of IPv6. It wi
 
 *  Publish documents explaining IPv6's advantages over IPv4 (e.g., features that reduce operational complexity and improve reliability).
 
-*  Maintain specifications of widely deployed transition mechanisms (including updating those published as Informational to Standards Track and Proposed Standard to Internet Standard). This includes NAT64, Stateless IP/ICMP Translation Algorithm (SIIT), Explicit Address Mappings (EAM), and 464XLAT.
+*  Maintain specifications of widely deployed transition mechanisms (including updating those published as Informational to Standards Track and Proposed Standard to Internet Standard). This includes NAT64, Stateless IP/ICMP Translation Algorithm (SIIT), and 464XLAT.
 
 *  Publish documents summarizing requirements and defining best practices nodes, applications, and services adopting and operating over IPv6.
 
-*  Maintain documents that the WG has published in the past.
+*  Maintain documents that the WG has published in the past. This includes Stateless IP/ICMP Translation for IPv6 Internet Data Center Environments (SIIT-DC), Explicit Address Mappings (EAM), and Stateless Source Address Mapping for ICMPv6 Packets. 
 
 *  Receive reports on network monitoring experiments and applications that perform well in IPv4 networks but do not perform well in IPv6 networks. A network monitoring experiment describes the externally observable behavior of the IPv6-enabled Internet. For example, it might report on the following:
 
