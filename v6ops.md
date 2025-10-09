@@ -16,7 +16,7 @@ Also, V6OPS provides operators, including service providers, enterprises, and ot
 
 *  Publish Informational documents explaining IPv6's advantages over IPv4 (e.g., features that reduce operational complexity and improve reliability).
 
-*  Maintain specifications of widely deployed transition mechanisms (including updating those published as Informational to Standards Track and Proposed Standard to Internet Standard). This includes updates and extensions to NAT64, Stateless IP/ICMP Translation Algorithm (SIIT), and 464XLAT.
+*  Maintain specifications of widely deployed transition mechanisms (including updating those published as Informational to Standards Track and Proposed Standard to Internet Standard). This includes updates and extensions to NAT64, Stateless IP/ICMP Translation Algorithm (SIIT), IPv6 Addressing of IPv4/IPv6 Translators, and 464XLAT.
 
 *  Publish documents summarizing Informational requirements and defining BCPs for nodes, applications, and services adopting and operating over IPv6.
 
