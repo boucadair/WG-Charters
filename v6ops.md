@@ -1,6 +1,6 @@
 The V6OPS Working Group (WG) facilitates the universal deployment of IPv6. It will focus on both IPv6 deployment and IPv6 traffic growth.
 
-Also, V6OPS provides operators, including service providers, enterprises, and other organizations a venue to share operational experience, challenges, and lessons learned, as well as other work within scope for the WG. Specifically, V6OPS is a venue to share reports on network monitoring experiments and applications that perform well in IPv4 networks but do not perform well in IPv6 networks.
+Also, V6OPS provides operators, including service providers, enterprises, and other organizations a venue to share operational experience, challenges, and lessons learned, as well as other work within scope for the WG. Specifically, V6OPS is a venue to share reports on IPv6-related network monitoring experiments and applications that perform well in IPv4 networks but do not perform well in IPv6 networks.
 
 ## Objectives
 
@@ -18,7 +18,7 @@ Also, V6OPS provides operators, including service providers, enterprises, and ot
 
 *  Maintain specifications of widely deployed transition mechanisms (including updating those published as Informational to Standards Track and Proposed Standard to Internet Standard). This includes updates and extensions to NAT64, Stateless IP/ICMP Translation Algorithm (SIIT), IPv6 Addressing of IPv4/IPv6 Translators, and 464XLAT.
 
-*  Publish documents summarizing Informational requirements and defining BCPs for nodes, applications, and services adopting and operating over IPv6.
+*  Publish Informational or BCP documents summarizing requirements and defining current practices for nodes, applications, and services adopting and operating over IPv6.
 
 *  Maintain Standards Track documents that the WG has published in the past. This includes updates and extensions to Stateless IP/ICMP Translation for IPv6 Internet Data Center Environments (SIIT-DC), Explicit Address Mappings (EAM), and Stateless Source Address Mapping for ICMPv6 Packets. 
 
