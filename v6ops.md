@@ -14,7 +14,7 @@ Also, V6OPS provides operators, including service providers, enterprises, and ot
  
      + Use cases, transition strategies, and best practices that enable IPv6-only operation.
 
-*  Publish Informational documents that identify obstacles to IPv6 deployment and IPv6 operational issues in general. Each document should include an operational solution, if one is available. These documents can be used as input to protocol-developing WGs. For example, this includes:
+*  Publish Informational documents that identify obstacles to IPv6 deployment and IPv6 operational issues in general. Each document should include discussion of operational solutions, if any are available. These documents can be used as input to protocol-developing WGs. For example, this includes:
 
      + A study that compares the performance of existing IPv4 networks to the performance of existing IPv6 networks. When IPv6 networks do not perform as well as IPv4 networks and vice versa, identify the root causes if possible.
  
