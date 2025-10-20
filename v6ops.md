@@ -4,7 +4,7 @@ Also, V6OPS provides operators, including service providers, enterprises, and ot
 
 ## Objectives
 
-*  Publish Informational or BCP documents that provide IPv6 operational guidance in specific deployment contexts. This includes:
+*  Publish Informational or BCP documents that provide IPv6 operational guidance in specific deployment contexts. For example, this includes:
 
      + Documents summarizing requirements and defining current practices for nodes, applications, and services adopting and operating over IPv6.
        
@@ -14,13 +14,13 @@ Also, V6OPS provides operators, including service providers, enterprises, and ot
  
      + Use cases, transition strategies, and best practices that enable IPv6-only operation.
 
-*  Publish Informational documents that identify obstacles to IPv6 deployment and IPv6 operational issues in general. Each document should include an operational solution, if one is available. These documents can be used as input to protocol-developing WGs. This includes:
+*  Publish Informational documents that identify obstacles to IPv6 deployment and IPv6 operational issues in general. Each document should include an operational solution, if one is available. These documents can be used as input to protocol-developing WGs. For example, this includes:
 
      + A study that compares the performance of existing IPv4 networks to the performance of existing IPv6 networks. When IPv6 networks do not perform as well as IPv4 networks and vice versa, identify the root causes if possible.
  
      + Use cases where dual-stack hosts prefer IPv4 or fail to utilize available IPv6 connectivity.
 
-* Maintain and specify extensions to NAT64 (RFC 6146), Stateless IP/ICMP Translation Algorithm (SIIT, RFC 7915), IPv6 Addressing of IPv4/IPv6 Translators (RFC 6052), 464XLAT (RFC 6877), Stateless IP/ICMP Translation for IPv6 Internet Data Center Environments (SIIT-DC, RFC 7755), and Stateless Source Address Mapping for ICMPv6 Packets (RFC 6791) (including, updating those published as Informational to Standards Track and Proposed Standard to Internet Standard).
+* Maintain and specify Standards Track extensions to NAT64 (RFC 6146), Stateless IP/ICMP Translation Algorithm (SIIT, RFC 7915), IPv6 Addressing of IPv4/IPv6 Translators (RFC 6052), 464XLAT (RFC 6877), Stateless IP/ICMP Translation for IPv6 Internet Data Center Environments (SIIT-DC, RFC 7755), and Stateless Source Address Mapping for ICMPv6 Packets (RFC 6791) (including, updating those published as Informational to Standards Track and Proposed Standard to Internet Standard).
 
 ## WG Practices
 
