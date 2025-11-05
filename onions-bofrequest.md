@@ -30,7 +30,7 @@ The ONIONS BoF will build on the IAB NEMOPS workshop and establish the operators
 ## Information for IAB/IESG
 To allow evaluation of your proposal, please include the following items:
 
-- Any protocols or practices that already exist in this space: L3SM, L2SM, Network Slicing, ACaaS
+- Any protocols or practices that already exist in this space: L3SM, L2SM, L3NM, L2NM, Network Slicing, ACaaS
 - Which (if any) modifications to existing protocols or practices are required: Proposed updates to the above models
 - Which (if any) entirely new protocols or practices are required: TBD 
 - Open source projects (if any) implementing this work: TBD
