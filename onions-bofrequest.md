@@ -2,16 +2,16 @@
 
 ## Description
 
-
 A variety of service abstraction mechanisms are used in modern networks to provide differentiated services, simplify provisioning, and create operational boundaries. These include VPNs, service chains, traffic-engineered services, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent and often specific to each deployment.
 
-The ONIONS BoF will build on the IAB NEMOPS workshop and establish the operators’ use of abstractions and challenges faced to allow operators to reliably manage and automate service abstractions. The goal is to determine whether there is consensus to form a working group focused on operationalising service abstractions, including:
+The ONIONS BoF will build on the IAB NEMOPS workshop and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and automate service abstractions reliably. The goal is to determine whether there is consensus to form a working group focused on operationalising service abstractions, including:
 
-- Common terminology and state representation of service abstractions.
-- Lifecycle procedures for creation, modification, and removal of service overlays.
-- Alignment of YANG models and management workflows.
-- Telemetry structures to correlate service behavior with underlying network state.
-- Operational troubleshooting guidance to diagnose service disruptions efficiently.
+- Understand the need for network and service abstractions, and structure them. 
+- Maintain some of the service and network YANG models
+- Document the interaction between the service and network YANG model and the underlying device model
+- Evaluate realisation approaches and perform gap analyses 
+- Recommendations for YANG-based APIs
+- Catalogue tooling-related resources 
 
 ## Required Details
 
