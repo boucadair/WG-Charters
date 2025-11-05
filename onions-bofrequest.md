@@ -18,7 +18,7 @@ The ONIONS BoF will build on the IAB NEMOPS workshop and establish the operators
 - Status: WG Forming
 - Responsible AD: Mahesh
 - BOF Proponents:
-  - **TBD** (1–3 names with email)
+  - **TBD** (2–5 names with email)
 - Number of people expected to attend: 100
 - Length of session: 2 hours
 
