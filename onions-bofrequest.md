@@ -16,7 +16,7 @@ The ONIONS BoF will build on the IAB NEMOPS workshop and establish the operators
 ## Required Details
 
 - Status: WG Forming
-- Responsible AD: Mahesh
+- Responsible AD: Mahesh Jethanandani
 - BOF Proponents:
   - Chongfeng Xie <xiechf@chinatelecom.cn>
   - Joe Clarke <jclarke@cisco.com>   
