@@ -18,14 +18,18 @@ The ONIONS BoF will build on the IAB NEMOPS workshop and establish the operators
 - Status: WG Forming
 - Responsible AD: Mahesh
 - BOF Proponents:
-  - **TBD** (2–5 names with email)
+  - Chongfeng Xie <xiechf@chinatelecom.cn>
+  - Joe Clarke <jclarke@cisco.com>   
+  - Kristian Larsson <k@centor.se>
+  - Samier Barguil <samier.barguil_giraldo@nokia.com>
+  - Brad Peters <bradpeters@nbnco.com.au>
 - Number of people expected to attend: 100
 - Length of session: 2 hours
 
 ### Conflicts
 - Chair Conflicts: TBD
-- Technology Overlap: OPSAWG, TEAS, CCAMP
-- Key Participant Conflict: TBD
+- Technology Overlap: OPSAWG, TEAS, CCAMP, NETMOD
+- Key Participant Conflict: OPSAREA, RTGAREA
 
 ## Information for IAB/IESG
 To allow evaluation of your proposal, please include the following items:
@@ -35,7 +39,7 @@ To allow evaluation of your proposal, please include the following items:
 - Which (if any) entirely new protocols or practices are required: TBD 
 - Open source projects (if any) implementing this work: TBD
 
-## Agenda (Draft)
+## Agenda (Very Early Draft)
 
 | Topic | Speaker | Time |
 |------|---------|------|
