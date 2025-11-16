@@ -1,5 +1,7 @@
 # ONIONS WG Charter
 
+A variety of service abstraction mechanisms are used in modern networks to provide differentiated services, simplify provisioning, and create operational boundaries. These include VPNs, service chains, traffic-engineered services, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent and often specific to each deployment. Much of the machinery to define these abstractions already exists across multiple IETF efforts.
+
 The Operationalizing Network & service abstractIONS (ONIONS) Working Group aims to make it easier to implement and use the IETF's service and network abstractions, with the goal of improving network automation, operational efficiency, and interoperability.
 
 For the purposes of this WG, the term "Abstraction" refers to the process of defining simplified, high-level constructs that represent network and service-level capabilities. Abstraction enables interaction between management components, and automation of management systems without directly exposing the underlying device-specific implementations.
