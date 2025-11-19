@@ -9,8 +9,8 @@ For the purposes of this WG, the term "Abstraction" refers to the process of def
 To achieve this goal, the ONIONS WG will serve as the focal point for network and service abstraction modeling in the IETF. The WG's activities include:
 
 1. Providing a comprehensive overview of operational needs and motivations for network and service abstractions,
-1. Structuring efforts on service and network YANG data models, including their maintenance and how they interact with underlying device YANG data models,
-1. Defining and maintaining YANG data models for network and service abstractions,
+1. Structuring efforts on service and network YANG data models, and how they interact with underlying device YANG data models,
+1. Maintaining YANG data models for network and service abstractions,
 1. Evaluating whether YANG data model activities in (3) necessitate changing the Automating Service and Network Management Framework defined in RFC 8969.
 
 Operators commonly expose service abstractions through APIs built from YANG data models; the ONIONS WG will provide guidance and requirements for making these YANG-based service APIs operationally consistent, automatable, and consumable across systems and vendors, including upper-layer OSS/BSS systems. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
