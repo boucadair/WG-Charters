@@ -38,11 +38,11 @@ Some WG documents might not be published as IETF Stream RFCs and may instead be 
 | Date                      | Milestone | Description | Intended Track |
 |---------------------------|-----------| -------------|:--------------:|
 | Ongoing as work progresses |Hackathon projects to demonstrate abstractions and develop any required tooling |Hackathon event showcasing vendor collaboration, abstraction feasibility, and proof-of-concept YANG2API tooling| N/A|
-| October 2025              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, and EANTC about ONIONS | Actively seek collaboration with other organizations|N/A|
-| November 2025              | Set up central GitHub organization and wiki for tooling and implementation resources | Actively seek community inputs for maintaining it|N/A|
-| January 2026              | Gather operational needs and motivations for network and service abstractions to inform YANG data model refresh work | Draft providing a catalog of use cases for L2NM/L3NM and Attachment Circuits YANG data models | Not published as RFC |
-| March 2026                | WG adoption of YANG-based service APIs problem statement and requirements | Draft detailing the problem and requirements for operationalizing YANG APIs| Info|
-| July 2026                |WG adoption of L2NM/L3NM refresh drafts |Updated drafts for L2NM and L3NM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
-| July 2026                |WG adoption of Attachment Circuits (AC) YANG Data Models applicability draft |Draft assessing AC YANG data models for network/cloud contexts, including use-case driven applicability and potential extensions| Info |
-| November 2026            |Submission of Attachment Circuits (AC) YANG Data Models draft|AC applicability draft submitted for IESG review| Info |
-| November 2026            |Submission of L2NM/L3NM refresh drafts|Refined L2NM and L3NM drafts submitted for IESG review| PS|
+| April 2026              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, and EANTC about ONIONS | Actively seek collaboration with other organizations|N/A|
+| May 2026              | Set up central GitHub organization and wiki for tooling and implementation resources | Actively seek community inputs for maintaining it|N/A|
+| December 2026              | Gather operational needs and motivations for network and service abstractions to inform YANG data model refresh work | Draft providing a catalog of use cases for L2NM/L3NM and Attachment Circuits YANG data models | Not published as RFC |
+| March 2027                | WG adoption of YANG-based service APIs problem statement and requirements | Draft detailing the problem and requirements for operationalizing YANG APIs| Info|
+| July 2027                |WG adoption of L2NM/L3NM refresh drafts |Updated drafts for L2NM and L3NM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
+| July 2027                |WG adoption of Attachment Circuits (AC) YANG Data Models applicability draft |Draft assessing AC YANG data models for network/cloud contexts, including use-case driven applicability and potential extensions| Info |
+| November 2027            |Submission of Attachment Circuits (AC) YANG Data Models draft|AC applicability draft submitted for IESG review| Info |
+| November 2027            |Submission of L2NM/L3NM refresh drafts|Refined L2NM and L3NM drafts submitted for IESG review| PS|
