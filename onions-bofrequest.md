@@ -2,16 +2,18 @@
 
 ## Description
 
-A variety of service abstraction mechanisms are used in modern networks to provide differentiated services, simplify provisioning, and create operational boundaries. These include VPNs, service chains, traffic-engineered services, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent and often specific to each deployment.
+A variety of service abstraction mechanisms are used in modern networks to provide differentiated services, simplify provisioning, and create operational boundaries. These include (but are not limited to) VPNs, service chains, traffic-engineered services, attachment circuits, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent and often specific to each deployment.
 
-The ONIONS BoF will build on the IAB NEMOPS workshop and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and automate service abstractions reliably. The goal is to determine whether there is consensus to form a working group focused on operationalising service abstractions, including:
+The ONIONS BoF will build on the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and automate service abstractions reliably. The goal is to determine whether there is consensus to form a working group focused on operationalising service abstractions, including:
 
-- Understand the need for network and service abstractions, and structure them. 
+- Understand the need for service and network abstractions, and structure them. 
 - Maintain some of the service and network YANG models
 - Document the interaction between the service and network YANG model and the underlying device model
 - Evaluate realisation approaches and perform gap analyses 
 - Recommendations for YANG-based APIs
-- Catalogue tooling-related resources 
+- Catalogue tooling-related resources
+
+The BoF will evaluate whether a new WG is needed to serve as the focal point for service and network abstraction modeling, and to coordinate this work across relevant WGs.
 
 ## Required Details
 
