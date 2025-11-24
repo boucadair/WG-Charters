@@ -2,7 +2,7 @@
 
 ## Description
 
-A variety of service abstraction mechanisms are used in provider networks to provide differentiated services, simplify provisioning, and create operational boundaries. These include (but are not limited to) VPNs, service function chains, traffic-engineered services, attachment circuits, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent and often specific to each deployment. In particular, integration tasks can be complex because of misalignment between involved components that are required to provide a given service abstraction.
+A variety of service abstraction mechanisms are used in provider networks to provide differentiated services, simplify provisioning, and create operational boundaries. These include (but are not limited to) VPNs, service function chains, traffic-engineered services, attachment circuits, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent and often specific to each deployment. In particular, integration is complex when the components needed for a given service abstraction are not necessarily aligned. 
 
 The ONIONS BoF will build on the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and highly automate service abstractions reliably. The goal is to determine whether there is consensus to form a working group focused on operationalising service abstractions, including:
 
