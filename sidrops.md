@@ -1,6 +1,6 @@
 ## SIDROPS Charter (2025)
 
-The global deployment of Secure Inter-Domain Routing (SIDR), consisting of Resource Public Key Infrastructure (RPKI), Origin Validation of BGP announcements, and GPsec, is still underway, creating an Internet Routing System consisting of SIDR-aware and non-SIDR-aware networks. This deployment must be properly handled to avoid the division of the Internet into separate networks.  SIDR Operations Working Group (SIDROPS WG) is responsible for continuing the development of SIDR technology, encouraging its deployment, while ensuring as secure of a global routing system as possible, during the transition.
+The global deployment of Secure Inter-Domain Routing (SIDR), consisting of Resource Public Key Infrastructure (RPKI), Origin Validation of BGP announcements, and BGPsec, is still underway, creating an Internet Routing System consisting of SIDR-aware and non-SIDR-aware networks. This deployment must be properly handled to avoid the division of the Internet into separate networks.  SIDR Operations Working Group (SIDROPS WG) is responsible for continuing the development of SIDR technology, encouraging its deployment, while ensuring as secure of a global routing system as possible, during the transition.
 
 The SIDROPS WG is focused on deployment and operational issues, their mitigations, and experiences  with SIDR technologies that are part of the global routing system, as well as the repositories and Certification Authority (CA) systems that form part of the SIDR architecture.
 
