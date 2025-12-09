@@ -21,6 +21,7 @@ The BoF will evaluate whether a new WG is needed to serve as the focal point wit
 - Responsible AD: Mahesh Jethanandani
 - BOF Proponents:
   - Chongfeng Xie <xiechf@chinatelecom.cn>
+  - Oscar Gonzalez De Dios <oscar.gonzalezdedios@telefonica.com>
   - Joe Clarke <jclarke@cisco.com>   
   - Kristian Larsson <k@centor.se>
   - Samier Barguil <samier.barguil_giraldo@nokia.com>
