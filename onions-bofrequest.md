@@ -19,7 +19,8 @@ The BoF will evaluate whether a new WG is needed to serve as the focal point wit
 
 - Status: WG Forming
 - Responsible AD: Mahesh Jethanandani
-- BOF Proponents:
+- BoF Chairs: TBD
+- BoF Proponents:
   - Chongfeng Xie <xiechf@chinatelecom.cn>
   - Oscar Gonzalez De Dios <oscar.gonzalezdedios@telefonica.com>
   - Joe Clarke <jclarke@cisco.com>   
