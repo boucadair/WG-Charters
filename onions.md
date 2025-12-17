@@ -6,7 +6,7 @@ The Operationalizing Network & service abstractIONS (ONIONS) Working Group aims 
 
 For the purposes of this WG, the term "Abstraction" refers to the process of defining simplified, high-level constructs that represent network and service-level capabilities. Abstraction enables interaction between management components, and automation of management systems without directly exposing the underlying device-specific implementations.
 
-To achieve this goal, the ONIONS WG will serve as the focal point for network and service abstraction modeling in the IETF and undertake the following activities:
+To achieve this goal, the ONIONS WG will serve as the focal point for network and service abstraction modeling in the IETF and undertake the following activities, with the objective of improving consistency and integration:
 
 1. Providing a comprehensive overview of operational needs and motivations for network and service abstractions,
 1. Coordinating service and network abstraction work, including interactions with underlying device YANG data models,
@@ -15,7 +15,7 @@ To achieve this goal, the ONIONS WG will serve as the focal point for network an
 
 In addition to these, the WG will also address:
 
-Operators commonly expose service abstractions through APIs built from YANG data models; the ONIONS WG will provide guidance and requirements for making these YANG-based service APIs automatable and consumable by external systems in a predictable and interoperable manner across systems and vendors, including upper-layer Operations and Business Support Systems (OSS/BSS). The WG will develop guidelines for integrating IETF YANG data models with frameworks developed outside of the IETF (e.g., TMF640), focusing on API-based integration. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
+Operators commonly expose service abstractions through APIs built from YANG data models; the ONIONS WG will provide guidance and requirements for making these YANG-based service APIs automatable and consumable by external systems in a predictable and interoperable manner across systems and vendors, including upper-layer Operations and Business Support Systems (OSS/BSS). The WG will develop guidelines for integrating IETF YANG data models with frameworks developed outside of the IETF (e.g., TMF640), to improve consistency and reduce integration friction, focusing on API-based integration. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
 
 The ONIONS WG will evaluate realization approaches and perform gap analyses of intended abstractions. This involves assessing interactions with control and data plane features necessary to implement services within networks. The WG will identify and work towards addressing any identified gaps in the realization of these abstractions, coordinating with relevant WGs as necessary. Work that is technology- or protocol-specific will be coordinated with, and carried out in, the relevant WGs.
 
