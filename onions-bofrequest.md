@@ -39,8 +39,8 @@ To allow evaluation of your proposal, please include the following items:
 
 - Any protocols or practices that already exist in this space: L3SM, L2SM, L3NM, L2NM, Network Slicing, ACaaS
 - Which (if any) modifications to existing protocols or practices are required: Proposed updates to the above models
-- Which (if any) entirely new protocols or practices are required: TBD 
-- Open source projects (if any) implementing this work: TBD
+- Which (if any) entirely new protocols or practices are required: Service abstractions through APIs built from YANG data models 
+- Open source projects (if any) implementing this work: Related to [yang2swagger](https://github.com/Amartus/yang2swagger)
 
 ## Agenda (Very Early Draft)
 
@@ -58,4 +58,8 @@ To allow evaluation of your proposal, please include the following items:
 - Mailing List: https://mailarchive.ietf.org/arch/browse/onions/
 - Draft Charter: https://github.com/boucadair/WG-Charters/blob/main/onions.md
 - Relevant Internet-Drafts:
-  - **TBD** (to be selected based on BoF presenter input)
+  - https://datatracker.ietf.org/doc/draft-bg-onions-update-network-service-models/
+  - https://datatracker.ietf.org/doc/draft-xie-onions-problem-statement/
+  - https://datatracker.ietf.org/doc/draft-dunbar-onions-ac-te-applicability/
+  - https://datatracker.ietf.org/doc/draft-henderickx-meta-graph-schema/
+  - https://datatracker.ietf.org/doc/draft-cardona-claise-onion-yang-coverage/
