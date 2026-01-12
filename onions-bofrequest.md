@@ -2,18 +2,17 @@
 
 ## Description
 
-A variety of service abstraction mechanisms are used in large networks to provide differentiated services, simplify provisioning, and decouple service operations from underlying network operations. These include (but are not limited to) VPNs, service function chains, traffic-engineered services, attachment circuits, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent. In particular, integration is complex when the components needed for a given service abstraction are not necessarily aligned. 
+A variety of service abstraction mechanisms are used in large networks to provide differentiated services, simplify provisioning, and decouple service operations from underlying network operations. These service abstractions include (but are not limited to) VPNs, service function chains, traffic-engineered services, attachment circuits, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent. In particular, integration is complex when the components needed for a given service abstraction are not necessarily aligned.
 
-The ONIONS BoF will build on the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and highly automate service abstractions reliably. The goal is to determine whether there is consensus to form a working group focused on operationalising service abstractions, including:
+The ONIONS BoF will build on the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and automate service abstractions and do so in a consistent manner.
 
-- Understand the need for service and network abstractions, and structure them. 
-- Maintain some of the service and network YANG data models.
-- Document the interaction between the service and network YANG data models and the underlying device models.
-- Evaluate realisation approaches and perform gap analyses. 
-- Recommendations for YANG-based APIs for the sake of better integration.
-- Catalogue tooling-related resources.
+The goal of this BoF is to determine whether there is interest in forming a working group focused on operationalising service and network abstractions, including:
 
-The BoF will evaluate whether a new WG is needed to serve as the focal point within the IETF for service and network abstraction modeling, and to coordinate this work across relevant WGs.
+- Understanding the need for service and network abstractions.
+- Developing and maintaining the service and network-level YANG data models.
+- Documenting the interaction between the service and network YANG data models and the underlying device models.
+- Publishing YANG-based APIs for use in integration and automation.
+- Cataloging tools related to automation.
 
 ## Required Details
 
@@ -39,8 +38,8 @@ To allow evaluation of your proposal, please include the following items:
 
 - Any protocols or practices that already exist in this space: L3SM, L2SM, L3NM, L2NM, Network Slicing, ACaaS
 - Which (if any) modifications to existing protocols or practices are required: Proposed updates to the above models
-- Which (if any) entirely new protocols or practices are required: Service abstractions through APIs built from YANG data models 
-- Open source projects (if any) implementing this work: Related to [yang2swagger](https://github.com/Amartus/yang2swagger)
+- Which (if any) entirely new protocols or practices are required: TBD
+- Open source projects (if any) implementing this work: TBD
 
 ## Agenda (Very Early Draft)
 
@@ -58,8 +57,4 @@ To allow evaluation of your proposal, please include the following items:
 - Mailing List: https://mailarchive.ietf.org/arch/browse/onions/
 - Draft Charter: https://github.com/boucadair/WG-Charters/blob/main/onions.md
 - Relevant Internet-Drafts:
-  - https://datatracker.ietf.org/doc/draft-bg-onions-update-network-service-models/
-  - https://datatracker.ietf.org/doc/draft-xie-onions-problem-statement/
-  - https://datatracker.ietf.org/doc/draft-dunbar-onions-ac-te-applicability/
-  - https://datatracker.ietf.org/doc/draft-henderickx-meta-graph-schema/
-  - https://datatracker.ietf.org/doc/draft-cardona-claise-onion-yang-coverage/
+  - **TBD** (to be selected based on BoF presenter input)
