@@ -57,4 +57,8 @@ To allow evaluation of your proposal, please include the following items:
 - Mailing List: https://mailarchive.ietf.org/arch/browse/onions/
 - Draft Charter: https://github.com/boucadair/WG-Charters/blob/main/onions.md
 - Relevant Internet-Drafts:
-  - **TBD** (to be selected based on BoF presenter input)
+  - https://datatracker.ietf.org/doc/draft-bg-onions-update-network-service-models/
+  - https://datatracker.ietf.org/doc/draft-xie-onions-problem-statement/
+  - https://datatracker.ietf.org/doc/draft-dunbar-onions-ac-te-applicability/
+  - https://datatracker.ietf.org/doc/draft-henderickx-meta-graph-schema/
+  - https://datatracker.ietf.org/doc/draft-cardona-claise-onion-yang-coverage/
