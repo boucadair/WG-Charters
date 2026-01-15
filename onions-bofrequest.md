@@ -9,7 +9,7 @@ The ONIONS BoF will build on the [IAB NEMOPS workshop](https://datatracker.ietf.
 The goal of this BoF is to determine whether there is interest in forming a working group focused on operationalising service and network abstractions, including:
 
 - Understanding the need for service and network abstractions.
-- Developing and maintaining the service and network-level YANG data models.
+- Enabling and maintaining the service and network-level YANG data models.
 - Documenting the interaction between the service and network YANG data models and the underlying device models.
 - Enabling YANG-based APIs for use in integration and automation.
 - Cataloging tools related to automation.
