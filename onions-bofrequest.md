@@ -11,7 +11,7 @@ The goal of this BoF is to determine whether there is interest in forming a work
 - Understanding the need for service and network abstractions.
 - Developing and maintaining the service and network-level YANG data models.
 - Documenting the interaction between the service and network YANG data models and the underlying device models.
-- Publishing YANG-based APIs for use in integration and automation.
+- Enabling YANG-based APIs for use in integration and automation.
 - Cataloging tools related to automation.
 
 ## Required Details
