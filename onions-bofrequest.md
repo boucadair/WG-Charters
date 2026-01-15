@@ -38,7 +38,7 @@ To allow evaluation of your proposal, please include the following items:
 
 - Any protocols or practices that already exist in this space: L3SM, L2SM, L3NM, L2NM, Network Slicing, ACaaS
 - Which (if any) modifications to existing protocols or practices are required: Proposed updates to the above models
-- Which (if any) entirely new protocols or practices are required: TBD
+- Which (if any) entirely new protocols or practices are required: Service abstractions through APIs built from YANG data models 
 - Open source projects (if any) implementing this work: TBD
 
 ## Agenda (Very Early Draft)
