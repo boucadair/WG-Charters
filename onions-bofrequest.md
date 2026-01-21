@@ -30,8 +30,8 @@ The goal of this BoF is to determine whether there is interest in forming a work
 
 ### Conflicts
 - Chair Conflicts: TBD
-- Technology Overlap: OPSAWG, TEAS, CCAMP, NETMOD
-- Key Participant Conflict: OPSAREA, RTGAREA
+- Technology Overlap: OPSAWG, TEAS, CCAMP, NETMOD, BESS
+- Key Participant Conflict: OPSAREA, RTGAREA, NMOP, RTGWG, NETCONF, MPLS, NMRG
 
 ## Information for IAB/IESG
 To allow evaluation of your proposal, please include the following items:
