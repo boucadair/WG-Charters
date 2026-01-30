@@ -10,7 +10,7 @@ To achieve this goal, the ONSEN WG will serve as the focal point for network and
 
 1. Providing a comprehensive overview of operational needs and motivations for network and service abstractions,
 1. Coordinating service and network abstraction work, including interactions with underlying device YANG data models,
-1. Maintaining YANG data models for network and service abstractions, and
+1. Maintaining YANG data models for network and service abstractions. At least the following YANG data models will be maintained by the WG: L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit-as-a-Service (ACaaS), Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring, and
 1. Evaluating whether YANG data model activities in work item (3) necessitate changing the Automating Service and Network Management Framework defined in RFC 8969.
 
 In addition to these, the WG will also address:
