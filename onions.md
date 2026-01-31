@@ -1,38 +1,38 @@
-# ONIONS WG Charter
+# Operationalizing Network & SErvice abstractioNs (ONSEN) WG Charter
 
 A variety of service abstraction mechanisms are used in large networks to provide differentiated services, simplify provisioning, and decouple service operations from underlying network operations. These include (but are not limited to) VPNs, service function chains, traffic-engineered services, attachment circuits, and network slicing. The [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) highlighted the challenges faced by operators to manage and automate service abstractions reliably. Notably, the operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent. In particular, integration is complex when the components needed for a given service abstraction are not necessarily aligned. Much of the machinery to define these abstractions already exists across multiple IETF efforts. 
 
-The Operationalizing Network & service abstractIONS (ONIONS) Working Group aims to make it easier to implement and use the IETF's service and network abstractions, with the goal of improving network automation, operational efficiency, and interoperability.
+The Operationalizing Network & SErvice abstractioNs (ONSEN) Working Group aims to make it easier to implement and use the IETF's service and network abstractions, with the goal of improving network automation, operational efficiency, and interoperability.
 
 For the purposes of this WG, the term "Abstraction" refers to the process of defining simplified, high-level constructs that represent network and service-level capabilities. Abstraction enables interaction between management components, and automation of management systems without directly exposing the underlying device-specific implementations.
 
-To achieve this goal, the ONIONS WG will serve as the focal point for network and service abstraction modeling in the IETF and undertake the following activities, with the objective of improving consistency and integration:
+To achieve this goal, the ONSEN WG will serve as the focal point for network and service abstraction modeling in the IETF and undertake the following activities, with the objective of improving consistency and integration:
 
 1. Providing a comprehensive overview of operational needs and motivations for network and service abstractions,
 1. Coordinating service and network abstraction work, including interactions with underlying device YANG data models,
-1. Maintaining YANG data models for network and service abstractions, and
+1. Maintaining YANG data models for network and service abstractions. At least the following YANG data models will be maintained by the WG: L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit-as-a-Service (ACaaS), Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring, and
 1. Evaluating whether YANG data model activities in work item (3) necessitate changing the Automating Service and Network Management Framework defined in RFC 8969.
 
 In addition to these, the WG will also address:
 
-Operators commonly expose service abstractions through APIs built from YANG data models. The ONIONS WG will provide guidance and requirements for making these YANG-based service APIs automatable and consumable by external systems in a predictable and interoperable manner across systems and vendors, including upper-layer Operations and Business Support Systems (OSS/BSS). The WG will develop guidelines for integrating IETF YANG data models with frameworks developed outside of the IETF (e.g., TMF640), to improve consistency and reduce integration friction, focusing on API-based integration. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
+Operators commonly expose service abstractions through APIs built from YANG data models. The ONSEN WG will provide guidance and requirements for making these YANG-based service APIs automatable and consumable by external systems in a predictable and interoperable manner across systems and vendors, including upper-layer Operations and Business Support Systems (OSS/BSS). The WG will develop guidelines for integrating IETF YANG data models with frameworks developed outside of the IETF (e.g., TMF640), to improve consistency and reduce integration friction, focusing on API-based integration. Additionally, the WG will assess the applicability of these abstractions to accommodate specific operational use cases and deployments, ensuring relevance to real-world environments.
 
 The ONIONS WG will evaluate realization approaches and perform gap analyses of intended abstractions. This involves assessing interactions with control and data plane features necessary to implement services within networks. The WG will identify and work towards addressing any identified gaps in the realization of these abstractions, coordinating with relevant WGs as necessary. Work that is technology- or protocol-specific will be coordinated with, and carried out in, the relevant WGs.
 
-Furthermore, ONIONS WG will coordinate with the relevant WGs to evaluate operational needs of abstraction-driven solutions (e.g., network slicing in Routing Area). YANG data models that are currently being progressed in other WGs, but are relevant to the ONIONS WG charter, could be considered to be moved to ONIONS with agreement from the relevant Responsible ADs, and rough consensus from the originating WG. Moreover, ONIONS WG will inform relevant WGs as appropriate (especially during adoption and WGLC) while the actual discussions happen on the ONIONS list. The ONIONS WG may have joint meetings with relevant WGs if and when deemed appropriate.
+Furthermore, ONSEN WG will coordinate with the relevant WGs to evaluate operational needs of abstraction-driven solutions (e.g., network slicing in Routing Area). YANG data models that are currently being progressed in other WGs, but are relevant to the ONSEN WG charter, could be considered to be moved to ONSEN with agreement from the relevant Responsible ADs, and rough consensus from the originating WG. Moreover, ONSEN WG will inform relevant WGs as appropriate (especially during adoption and WGLC) while the actual discussions happen on the ONSEN list. The ONSEN WG may have joint meetings with relevant WGs if and when deemed appropriate.
 
-The ONIONS WG will catalogue tooling-related resources in the WG GitHub or Wiki, including but not limited to existing tools, gaps, recommendations, examples of their use, example implementations, and relevant artifacts from hackathons or interoperability events. The WG is expected to encourage and support members to participate in hackathons and community-driven validation efforts to test and refine its outputs.
+The ONSEN WG will catalogue tooling-related resources in the WG GitHub or Wiki, including but not limited to existing tools, gaps, recommendations, examples of their use, example implementations, and relevant artifacts from hackathons or interoperability events. The WG is expected to encourage and support members to participate in hackathons and community-driven validation efforts to test and refine its outputs.
 
 Some WG documents might not be published as IETF Stream RFCs and may instead be maintained as Internet-Drafts to support ongoing WG activities.
 
 ## Relationship With Existing WGs
 
 * Technology- or protocol-specific modeling efforts (e.g., device-level YANG data models) remain the responsibility of their respective WGs.
-* ONIONS WG will engage with other relevant WGs (e.g., NETMOD, NMOP) to gather requirements and input related to tooling.
-* Any new requirements for changes to the YANG language identified during ONIONS WG discussions will be directed to the NETMOD WG for consideration.
-* BESS/CCAMP/TEAS: ONIONS WG will take on future network and service data modeling efforts, while technology- or protocol-specific modeling efforts remain in these WGs.
-* NMOP: ONIONS WG will focus on abstractions, while topology-related efforts will remain in NMOP. Network topology models are out of scope of ONIONS.
-* OPSAWG: ONIONS WG will handle AC/SAP/L2NM/L3NM work, enabling OPSAWG to focus on other operational topics. Future abstraction-related work will be directed to ONIONS.
+* ONSEN WG will engage with other relevant WGs (e.g., NETMOD, NMOP) to gather requirements and input related to tooling.
+* Any new requirements for changes to the YANG language identified during ONSEN WG discussions will be directed to the NETMOD WG for consideration.
+* BESS/CCAMP/TEAS: ONSEN WG will take on future network and service data modeling efforts, while technology- or protocol-specific modeling efforts remain in these WGs.
+* NMOP: ONSEN WG will focus on abstractions, while topology-related efforts will remain in NMOP. Network topology models are out of scope of ONSEN.
+* OPSAWG: ONSEN WG will handle AC/SAP/L2NM/L3NM work, enabling OPSAWG to focus on other operational topics. Future abstraction-related work will be directed to ONSEN.
 
 
 ## Milestones
@@ -40,7 +40,7 @@ Some WG documents might not be published as IETF Stream RFCs and may instead be 
 | Date                      | Milestone | Description | Intended Track |
 |---------------------------|-----------| -------------|:--------------:|
 | Ongoing as work progresses |Hackathon projects to demonstrate abstractions and develop any required tooling |Hackathon event showcasing vendor collaboration, abstraction feasibility, and proof-of-concept YANG2API tooling| N/A|
-| April 2026              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, and EANTC about ONIONS | Actively seek collaboration with other organizations|N/A|
+| April 2026              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, and EANTC about ONSEN | Actively seek collaboration with other organizations|N/A|
 | May 2026              | Set up central GitHub organization and wiki for tooling and implementation resources | Actively seek community inputs for maintaining it|N/A|
 | December 2026              | Gather operational needs and motivations for network and service abstractions to inform YANG data model refresh work | Draft providing a catalog of use cases for L2NM/L3NM and Attachment Circuits YANG data models | Not published as RFC |
 | March 2027                | WG adoption of YANG-based service APIs problem statement and requirements | Draft detailing the problem and requirements for operationalizing YANG APIs| Info|

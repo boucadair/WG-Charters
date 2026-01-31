@@ -1,10 +1,10 @@
-# Name: Operationalizing Network & Service abstractIONS (ONIONS)
+# Name: Operationalizing Network & SErvice abstractioNs (ONSEN)
 
 ## Description
 
 A variety of service abstraction mechanisms are used in large networks to provide differentiated services, simplify provisioning, and decouple service operations from underlying network operations. These service abstractions include (but are not limited to) VPNs, service function chains, traffic-engineered services, attachment circuits, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent. In particular, integration is complex when the components needed for a given service abstraction are not necessarily aligned.
 
-The ONIONS BoF will build on the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and automate service abstractions and do so in a consistent manner.
+The ONSEN BoF will build on the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and automate service abstractions and do so in a consistent manner.
 
 The goal of this BoF is to determine whether there is interest in forming a working group focused on operationalising service and network abstractions, including:
 
