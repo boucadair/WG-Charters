@@ -1,4 +1,4 @@
-# Operationalizing Network & SErvice abstractioN (ONSEN) WG Charter
+# Operationalizing Network & SErvice abstractioNs (ONSEN) WG Charter
 
 A variety of service abstraction mechanisms are used in large networks to provide differentiated services, simplify provisioning, and decouple service operations from underlying network operations. These include (but are not limited to) VPNs, service function chains, traffic-engineered services, attachment circuits, and network slicing. The [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) highlighted the challenges faced by operators to manage and automate service abstractions reliably. Notably, the operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent. In particular, integration is complex when the components needed for a given service abstraction are not necessarily aligned. Much of the machinery to define these abstractions already exists across multiple IETF efforts. 
 
