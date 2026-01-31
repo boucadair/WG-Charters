@@ -1,4 +1,4 @@
-# Name: Operationalizing Network & SErvice abstractioN (ONSEN)
+# Name: Operationalizing Network & SErvice abstractioNs (ONSEN)
 
 ## Description
 
