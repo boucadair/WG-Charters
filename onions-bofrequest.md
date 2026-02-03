@@ -25,6 +25,7 @@ The goal of this BoF is to determine whether there is interest in forming a work
   - Joe Clarke <jclarke@cisco.com>   
   - Samier Barguil <samier.barguil_giraldo@nokia.com>
   - Brad Peters <bradpeters@nbnco.com.au>
+  - Ian Farrer <ian.farrer@telekom.de> 
 - Number of people expected to attend: 100
 - Length of session: 2 hours
 
