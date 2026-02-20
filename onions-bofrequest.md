@@ -63,3 +63,4 @@ To allow evaluation of your proposal, please include the following items:
   - https://datatracker.ietf.org/doc/draft-dunbar-onions-ac-te-applicability/
   - https://datatracker.ietf.org/doc/draft-henderickx-meta-graph-schema/
   - https://datatracker.ietf.org/doc/draft-cardona-claise-onion-yang-coverage/
+  - https://datatracker.ietf.org/doc/draft-fu-onsen-update-l3sm-service-models/ 
