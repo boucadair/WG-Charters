@@ -23,7 +23,16 @@ Furthermore, ONSEN WG will coordinate with the relevant WGs to evaluate operatio
 
 The ONSEN WG will catalogue tooling-related resources in the WG GitHub or Wiki, including but not limited to existing tools, gaps, recommendations, examples of their use, example implementations, and relevant artifacts from hackathons or interoperability events. The WG is expected to encourage and support members to participate in hackathons and community-driven validation efforts to test and refine its outputs.
 
+## Work Items
+
+1. Operational motivation for network and service abstractions
+1. Update to the YANG network data models for L3NM and L2NM
+1. Update to the YANG service data models for L3SM and L2SM
+1. Guidance for operationalising and integrating YANG-based service APIs
+
 Some WG documents might not be published as IETF Stream RFCs and may instead be maintained as Internet-Drafts to support ongoing WG activities.
+
+
 
 ## Relationship With Existing WGs
 
@@ -42,9 +51,9 @@ Some WG documents might not be published as IETF Stream RFCs and may instead be 
 | Ongoing as work progresses |Hackathon projects to demonstrate abstractions and develop any required tooling |Hackathon event showcasing vendor collaboration, abstraction feasibility, and proof-of-concept YANG2API tooling| N/A|
 | April 2026              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, and EANTC about ONSEN | Actively seek collaboration with other organizations|N/A|
 | May 2026              | Set up central GitHub organization and wiki for tooling and implementation resources | Actively seek community inputs for maintaining it|N/A|
-| December 2026              | Gather operational needs and motivations for network and service abstractions to inform YANG data model refresh work | Draft providing a catalog of use cases for L2NM/L3NM and Attachment Circuits YANG data models | Not published as RFC |
+| December 2026              | Gather operational needs and motivations for network and service abstractions to inform YANG data model update work | Draft providing a catalog of use cases for L3SM/L2SM/L2NM/L3NM and Attachment Circuits YANG data models | Not published as RFC |
 | March 2027                | WG adoption of Guidelines for YANG-based service APIs | Draft detailing the guidelines for operationalizing YANG APIs| Info|
-| July 2027                |WG adoption of L2NM/L3NM refresh drafts |Updated drafts for L2NM and L3NM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
-| July 2027                |WG adoption of Attachment Circuits (AC) YANG Data Models applicability draft |Draft assessing AC YANG data models for network/cloud contexts, including use-case driven applicability and potential extensions| Info |
-| November 2027            |Submission of Attachment Circuits (AC) YANG Data Models draft|AC applicability draft submitted for IESG review| Info |
-| November 2027            |Submission of L2NM/L3NM refresh drafts|Refined L2NM and L3NM drafts submitted for IESG review| PS|
+| July 2027                |WG adoption of L2NM/L3NM update drafts |Updated drafts for L2NM and L3NM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
+| July 2027                |WG adoption of L2SM/L3SM update drafts |Updated drafts for L2SM and L3SM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
+| November 2027            |Submission of L2NM/L3NM update drafts|Refined L2NM and L3NM drafts submitted for IESG review| PS|
+| November 2027            |Submission of L2SM/L3SM update drafts|Refined L2SM and L3SM drafts submitted for IESG review| PS|
