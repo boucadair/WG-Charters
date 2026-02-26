@@ -26,7 +26,7 @@ The WG will catalogue tooling resources (tools, gaps, recommendations, examples,
 1. Update to the YANG service data models for L3SM and L2SM
 1. Guidance for operationalising and integrating YANG-based service APIs
 
-Some WG documents may remain as Internet-Drafts rather than published RFCs.
+Some WG documents may remain as Internet-Drafts rather than get published as RFCs.
 
 ## Relationship With Existing WGs
 
