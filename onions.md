@@ -10,10 +10,10 @@ ONSEN will serve as the IETF's focal point for service and network abstraction m
 
 1. Documenting operational needs and motivations for network and service abstractions.
 1. Coordinating abstraction work, including interactions with device-level YANG models.
-1. Maintaining key YANG data models, which include at least the following: L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit-as-a-Service (ACaaS), Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring
-1. Assessing whether the maintained models require changes to the RFC 8969 framework.
+1. Maintaining key YANG data models, which include at least the following: VPN Common Model, L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit Common Model, Attachment Circuit-as-a-Service (ACaaS), Attachment Circuit Network Model, Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring.
+1. Assessing whether the maintained data models require changes to the RFC 8969 framework.
 
-Beyond these, ONSEN will provide guidance for making YANG-based service APIs automatable and interoperable across systems and vendors, including OSS/BSS integration. It will develop guidelines for aligning IETF YANG models with external frameworks (e.g., TMF640) and assess abstractions against real-world deployment use cases.
+Beyond these, ONSEN will provide guidance for making YANG-based service APIs automatable and interoperable across systems and vendors, including OSS/BSS integration. It will develop guidelines for aligning IETF YANG data models with external frameworks (e.g., TMF640) and assess abstractions against real-world deployment use cases.
 
 ONSEN will also evaluate realization approaches and perform gap analyses, identifying what's needed at the control and data plane to implement services — coordinating with relevant WGs for technology- or protocol-specific work.
 
@@ -22,8 +22,8 @@ The WG will catalogue tooling resources (tools, gaps, recommendations, examples,
 ## Work Items
 
 1. Operational motivation for network and service abstractions
-1. Update to the YANG network data models for L3NM and L2NM
-1. Update to the YANG service data models for L3SM and L2SM
+1. Updates to the YANG network data models for L3NM and L2NM
+1. Updates to the YANG service data models for L3SM and L2SM
 1. Guidance for operationalising and integrating YANG-based service APIs
 
 Some WG documents may remain as Internet-Drafts rather than get published as RFCs.
@@ -31,7 +31,7 @@ Some WG documents may remain as Internet-Drafts rather than get published as RFC
 ## Relationship With Existing WGs
 
 * Technology- or protocol-specific modeling efforts (e.g., device-level YANG data models) remain the responsibility of their respective WGs.
-* ONSEN WG will engage with other relevant WGs (e.g., NETMOD, NMOP) to gather requirements and input related to tooling.
+* ONSEN WG will engage with other relevant WGs (e.g., NETMOD and NMOP) to gather requirements and input related to tooling.
 * Any new requirements for changes to the YANG language identified during ONSEN WG discussions will be directed to the NETMOD WG for consideration.
 * BESS/CCAMP/TEAS: ONSEN WG will take on future network and service data modeling efforts, while technology- or protocol-specific modeling efforts remain in these WGs.
 * NMOP: ONSEN WG will focus on abstractions, while topology-related efforts will remain in NMOP. Network topology models are out of scope of ONSEN.
