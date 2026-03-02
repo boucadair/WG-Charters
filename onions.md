@@ -6,14 +6,13 @@ The ONSEN WG aims to make IETF service and network abstractions easier to implem
 
 For this WG, the term "Abstraction" refers to the process of defining simplified, high-level constructs that represent network and service-level capabilities. Abstraction enables interaction between management components and automation of management systems without directly exposing the underlying device-specific implementations.
 
-ONSEN will serve as the IETF's focal point for service and network abstraction modeling, with four core activities:
+ONSEN will serve as the IETF's focal point for service and network abstraction modeling, with three core activities:
 
 1. Documenting operational needs and motivations for network and service abstractions.
 1. Coordinating abstraction work, including interactions with device-level YANG models.
 1. Maintaining key YANG data models, which include at least the following: VPN Common Model, L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit Common Model, Attachment Circuit-as-a-Service (ACaaS), Attachment Circuit Network Model, Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring.
-1. Assessing whether the maintained data models require changes to the RFC 8969 framework.
 
-Beyond these, ONSEN will provide guidance for making YANG-based service APIs automatable and interoperable across systems and vendors, including OSS/BSS integration. It will develop guidelines for aligning IETF YANG data models with external frameworks (e.g., TMF640) and assess abstractions against real-world deployment use cases.
+Beyond these, ONSEN will provide guidance for making YANG-based service APIs automatable and interoperable across systems and vendors, including OSS/BSS integration. It will develop guidelines for aligning IETF YANG data models with external frameworks (e.g., TMF640), assess abstractions against real-world deployment use cases, and identify any gaps or lessons learned relevant to the RFC 8969 framework. 
 
 ONSEN will also evaluate realization approaches and perform gap analyses, identifying what's needed at the control and data plane to implement services — coordinating with relevant WGs for technology- or protocol-specific work.
 
