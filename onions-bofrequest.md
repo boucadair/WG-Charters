@@ -1,10 +1,10 @@
-# Name: Operationalizing Network & Service abstractIONS (ONIONS)
+# Name: Operationalizing Network & SErvice abstractioNs (ONSEN)
 
 ## Description
 
 A variety of service abstraction mechanisms are used in large networks to provide differentiated services, simplify provisioning, and decouple service operations from underlying network operations. These service abstractions include (but are not limited to) VPNs, service function chains, traffic-engineered services, attachment circuits, and network slicing. The operational workflows for deploying, monitoring, troubleshooting, and evolving these service abstractions are inconsistent. In particular, integration is complex when the components needed for a given service abstraction are not necessarily aligned.
 
-The ONIONS BoF will build on the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and automate service abstractions and do so in a consistent manner.
+The ONSEN BoF will build on the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) and establish the operators’ use of abstractions, as well as the challenges faced, to enable operators to manage and automate service abstractions and do so in a consistent manner.
 
 The goal of this BoF is to determine whether there is interest in forming a working group focused on operationalising service and network abstractions, including:
 
@@ -25,13 +25,14 @@ The goal of this BoF is to determine whether there is interest in forming a work
   - Joe Clarke <jclarke@cisco.com>   
   - Samier Barguil <samier.barguil_giraldo@nokia.com>
   - Brad Peters <bradpeters@nbnco.com.au>
+  - Ian Farrer <ian.farrer@telekom.de> 
 - Number of people expected to attend: 100
 - Length of session: 2 hours
 
 ### Conflicts
 - Chair Conflicts: TBD
-- Technology Overlap: OPSAWG, TEAS, CCAMP, NETMOD
-- Key Participant Conflict: OPSAREA, RTGAREA
+- Technology Overlap: OPSAWG, TEAS, CCAMP, NETMOD, BESS
+- Key Participant Conflict: OPSAREA, RTGAREA, NMOP, RTGWG, NETCONF, MPLS, IVY, GREEN, NMRG
 
 ## Information for IAB/IESG
 To allow evaluation of your proposal, please include the following items:
@@ -62,3 +63,4 @@ To allow evaluation of your proposal, please include the following items:
   - https://datatracker.ietf.org/doc/draft-dunbar-onions-ac-te-applicability/
   - https://datatracker.ietf.org/doc/draft-henderickx-meta-graph-schema/
   - https://datatracker.ietf.org/doc/draft-cardona-claise-onion-yang-coverage/
+  - https://datatracker.ietf.org/doc/draft-fu-onsen-update-l3sm-service-models/ 
