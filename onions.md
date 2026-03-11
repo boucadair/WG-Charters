@@ -11,7 +11,7 @@ ONSEN will serve as the IETF's focal point for service and network abstraction m
 1. Documenting operational needs and motivations for network and service abstractions.
 1. Coordinating abstraction work, including interactions with device-level YANG models.
 1. Maintaining key YANG data models, including refactoring or restructuring, which include at least the following: VPN Common Model, L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit Common Model, Attachment Circuit-as-a-Service (ACaaS), Attachment Circuit Network Model, Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring.
-1. Develop reusable abstractions and a common foundation for service YANG data models that allow multiple IETF service models to be built on a shared extensible foundation.
+1. Developing reusable abstractions and a common foundation for service YANG data models that allow multiple IETF service models to be built on a shared extensible foundation.
 
 The WG may develop new service or network YANG data models related to IETF technologies when gaps are identified.
 
