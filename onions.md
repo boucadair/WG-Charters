@@ -42,7 +42,7 @@ Some WG documents may remain as Internet-Drafts rather than get published as RFC
 | Date                      | Milestone | Description | Intended Track |
 |---------------------------|-----------| -------------|:--------------:|
 | Ongoing as work progresses |Hackathon projects to demonstrate abstractions and develop any required tooling |Hackathon event showcasing vendor collaboration, abstraction feasibility, and proof-of-concept YANG-based service APIs tooling| N/A|
-| April 2026              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, and EANTC about ONSEN | Actively seek collaboration with other organizations|N/A|
+| April 2026              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, TIP, and EANTC about ONSEN | Actively seek collaboration with other organizations|N/A|
 | May 2026              | Set up central GitHub organization and wiki for tooling and implementation resources | Actively seek community inputs for maintaining it|N/A|
 | December 2026              | Gather operational needs and motivations for updating network and service abstractions to inform YANG data model update work | Draft providing a catalog of use cases for L3SM/L2SM/L2NM/L3NM and Attachment Circuits YANG data models | Not published as RFC |
 | March 2027                | WG adoption of Guidelines for YANG-based service APIs | Draft detailing the guidelines for operationalizing YANG APIs| Info|
