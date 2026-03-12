@@ -15,7 +15,7 @@ ONSEN will serve as the IETF's focal point for service and network abstraction m
 
 The WG may develop new service or network YANG data models related to IETF technologies when gaps are identified.
 
-Beyond these, ONSEN will provide guidance for making YANG-based service APIs automatable and interoperable across systems and vendors, including OSS/BSS integration. It will develop guidelines for aligning IETF YANG data models with external frameworks (e.g., TMF640), assess abstractions against real-world deployment use cases, and identify any gaps or lessons learned relevant to the RFC 8969 framework. 
+Beyond these, ONSEN will define the interface between YANG-based service APIs and the OSS/BSS layer to enable automated and interoperable service orchestration across systems and vendors. This includes guidelines for aligning IETF YANG data models with external frameworks (e.g., TMF640), assessing abstractions against real-world deployment use cases, and identifying any gaps or lessons learned relevant to the RFC 8969 framework. 
 
 ONSEN will also evaluate realization approaches and perform gap analyses, identifying what's needed at the control and data plane to implement services — coordinating with relevant WGs for technology- or protocol-specific work.
 
@@ -26,8 +26,8 @@ The WG will catalogue tooling resources (tools, gaps, recommendations, examples,
 1. Operational motivation for network and service abstractions
 1. Updates to the YANG network data models for L3NM and L2NM
 1. Updates to the YANG service data models for L3SM and L2SM
-1. Guidance for operationalising and integrating YANG-based service APIs
-1. Develop a framework for reusable service YANG data models.
+1. Develop a framework for reusable service YANG data models
+1. Define the interface between YANG-based service APIs and the OSS/BSS layer
 
 Some WG documents may remain as Internet-Drafts rather than get published as RFCs.
 
@@ -47,10 +47,7 @@ Some WG documents may remain as Internet-Drafts rather than get published as RFC
 |---------------------------|-----------| -------------|:--------------:|
 | Ongoing as work progresses |Hackathon projects to demonstrate abstractions and develop any required tooling |Hackathon event showcasing vendor collaboration, abstraction feasibility, and proof-of-concept YANG-based service APIs tooling| N/A|
 | April 2026              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, TIP, and EANTC about ONSEN | Actively seek collaboration with other organizations|N/A|
-| May 2026              | Set up central GitHub organization and wiki for tooling and implementation resources | Actively seek community inputs for maintaining it|N/A|
 | December 2026              | Gather operational needs and motivations for updating network and service abstractions to inform YANG data model update work | Draft providing a catalog of use cases for L3SM/L2SM/L2NM/L3NM and Attachment Circuits YANG data models | Not published as RFC |
-| March 2027                | WG adoption of Guidelines for YANG-based service APIs | Draft detailing the guidelines for operationalizing YANG APIs| Info|
+| March 2027                | WG adoption of a draft that defines the interface between YANG-based service APIs and the OSS/BSS layer | Draft detailing the interface between the OSS/BSS layer and the YANG APIs | Info|
 | July 2027                |WG adoption of L2NM/L3NM update drafts |Updated drafts for L2NM and L3NM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
 | July 2027                |WG adoption of L2SM/L3SM update drafts |Updated drafts for L2SM and L3SM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps (e.g., SRv6 VPN).| PS|
-| November 2027            |Submission of L2NM/L3NM update drafts|Refined L2NM and L3NM drafts submitted for IESG review| PS|
-| November 2027            |Submission of L2SM/L3SM update drafts|Refined L2SM and L3SM drafts submitted for IESG review| PS|
