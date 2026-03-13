@@ -6,7 +6,7 @@ The ONSEN WG aims to make IETF service and network abstractions easier to implem
 
 For this WG, the term "Abstraction" refers to the process of defining simplified, high-level constructs that represent network and service-level capabilities. Abstraction enables interaction between management components and automation of management systems without directly exposing the underlying device-specific implementations.
 
-ONSEN will serve as the IETF's focal point for service and network abstraction modeling, with three core activities:
+ONSEN will serve as the IETF's focal point for service and network abstraction modeling, with four core activities:
 
 1. Documenting operational needs and motivations for network and service abstractions.
 1. Coordinating abstraction work, including interactions with device-level YANG models.
