@@ -29,7 +29,7 @@ The WG will catalogue tooling resources (tools, gaps, recommendations, examples,
 1. Develop a framework for reusable service YANG data models
 1. Define the interface between YANG-based service APIs and the OSS/BSS layer
 
-Some WG documents may remain as Internet-Drafts rather than get published as RFCs.
+The WG may decide that some documents should remain as Internet-Drafts rather than get published as RFCs. This decision will be made on a case-by-case basis by consensus of the WG.
 
 ## Relationship With Existing WGs
 
