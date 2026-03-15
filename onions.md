@@ -15,7 +15,7 @@ ONSEN will serve as the IETF's focal point for service and network abstraction m
 
 The WG may develop new service or network YANG data models related to IETF technologies when gaps are identified.
 
-Beyond these, ONSEN will define the interface between YANG-based service APIs and the OSS/BSS layer to enable automated and interoperable service orchestration across systems and vendors. This includes guidelines for aligning IETF YANG data models with external frameworks (e.g., TMF640), assessing abstractions against real-world deployment use cases, and identifying any gaps or lessons learned relevant to the RFC 8969 framework and the explanation of service models in RFC 8309. 
+Beyond these, ONSEN will define the interface between YANG-based service APIs and the OSS/BSS layer to enable automated and interoperable service orchestration across systems and vendors. This includes guidelines for aligning IETF YANG data models with external frameworks (e.g., TMF640), assessing abstractions against real-world deployment use cases, and identifying any gaps relevant to the RFC 8969 framework and the explanation of service models in RFC 8309. 
 
 ONSEN will also evaluate realization approaches and perform gap analyses, identifying what's needed at the control and data plane to implement services — coordinating with relevant WGs for technology- or protocol-specific work.
 
