@@ -1,6 +1,6 @@
 # Operationalizing Network & SErvice abstractioNs (ONSEN) WG Charter
 
-Large networks rely on service abstraction mechanisms — for example, VPNs, service function chains, traffic engineering, attachment circuits, and network slicing — to deliver differentiated services and simplify provisioning. As the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) highlighted, operational workflows for deploying, monitoring, and evolving these abstractions are inconsistent and poorly integrated, despite much of the underlying IETF machinery already being in place.
+Large networks rely on service abstraction mechanisms — for example, VPNs, service function chains, traffic engineering, attachment circuits, and network slicing — to deliver differentiated services and simplify provisioning. As the [IAB NEMOPS workshop](https://datatracker.ietf.org/doc/draft-iab-nemops-workshop-report/) highlighted, operational workflows for deploying, monitoring, and evolving these abstractions are inconsistent and poorly integrated, despite much of the underlying IETF machinery (e.g., GitHub repository for IETF-related YANG models,YANG model coordination group, etc) already being in place.
 
 The ONSEN WG aims to make IETF service and network abstractions easier to implement and use, improving automation, operational efficiency, and interoperability. 
 
@@ -9,9 +9,9 @@ For this WG, the term "Abstraction" refers to the process of defining simplified
 ONSEN will serve as the IETF's focal point for service and network abstraction modeling, with four core activities:
 
 1. Documenting operational needs and motivations for network and service abstractions.
-1. Coordinating abstraction work, including interactions with device-level YANG models.
-1. Maintaining key YANG data models, including refactoring or restructuring, which include at least the following: VPN Common Model, L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Attachment Circuit Common Model, Attachment Circuit-as-a-Service (ACaaS), Attachment Circuit Network Model, Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring.
-1. Developing reusable abstractions and a common foundation for service YANG data models that allow multiple IETF service models to be built on a shared extensible foundation.
+2. Coordinating abstraction work, including interactions with device-level YANG models.
+3. Maintaining key YANG data models, including refactoring or restructuring, which include at least the following: VPN Common Model, L2VPN Service Model (L2SM), L3VPN Service Model (L3SM), L2VPN Network Model (L2NM), L3VPN Network Model (L3NM), Traffic Engineering (TE) and Service Mapping YANG Data Model, Attachment Circuit Common Model, Attachment Circuit-as-a-Service (ACaaS), Attachment Circuit Network Model, Service Attachment Points (SAP), Network Slicing, Service Assurance for Intent-Based Networking (SAIN), Virtual Network (VN), Abstraction and Control of TE Networks (ACTN), and the YANG Data Model for Network and VPN Service Performance Monitoring.
+4. Developing reusable abstractions and a common foundation for service YANG data models that allow multiple IETF service models to be built on a shared extensible foundation.
 
 The WG may develop new service or network YANG data models related to IETF technologies when gaps are identified.
 
