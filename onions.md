@@ -23,9 +23,9 @@ The WG will catalogue tooling resources (tools, gaps, recommendations, examples,
 
 ## Work Items
 
-1. Operational motivation for network and service abstractions
-1. Updates to the YANG network data models for L3NM and L2NM
-1. Updates to the YANG service data models for L3SM and L2SM
+1. Develop a problem statement from existing models to guide the scope and priorities
+1. Update the YANG network data models for L3NM and L2NM
+1. Update the YANG service data models for L3SM and L2SM
 1. Develop a framework for reusable service YANG data models
 1. Define the interface between YANG-based service APIs and the OSS/BSS layer
 
