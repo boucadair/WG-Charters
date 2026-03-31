@@ -40,15 +40,17 @@ The WG may decide that some documents should remain as Internet-Drafts rather th
 * NMOP: ONSEN WG will focus on abstractions, while topology-related efforts will remain in NMOP. Network topology models are out of scope of ONSEN.
 * OPSAWG: ONSEN WG will handle AC/SAP/L2NM/L3NM work, enabling OPSAWG to focus on other operational topics. Future abstraction-related work will be directed to ONSEN.
 
-
 ## Milestones
 
 | Date                      | Milestone | Description | Intended Track |
 |---------------------------|-----------| -------------|:--------------:|
-| Ongoing as work progresses |Hackathon projects to demonstrate abstractions and develop any required tooling |Hackathon event showcasing vendor collaboration, abstraction feasibility, and proof-of-concept YANG-based service APIs tooling| N/A|
 | May 2026              | Send LSes to TMF, 3GPP, BBF, GSMA, Linux Foundation, TIP, and EANTC about ONSEN | Actively seek collaboration with other organizations|N/A|
-| December 2026              | WG adoption of a problem statement draft from existing models to guide the scope and priorities | Draft providing a problem statement draft from existing models to guide the scope and priorities | Not published as RFC |
-| March 2027                | WG adoption of a draft for Service-layer APIs based on YANG service models to interface with OSS/BSS | Draft detailing the Service-layer APIs based on YANG service models to interface with OSS/BSS | PS|
-| March 2027                | WG adoption of a draft reusable service YANG data models | Draft detailing the framework for reusable service YANG data models | PS|
-| July 2027                |WG adoption of draft that updates the YANG network data models for L3NM and L2NM |Updated drafts for L2NM and L3NM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps.| PS|
-| July 2027                |WG adoption of draft that updates the YANG network data models for L3SM and L2SM |Updated drafts for L2SM and L3SM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps.| PS|
+| November 2026              | WG adoption of a problem statement draft from existing models to guide the scope and priorities | Draft providing a problem statement draft from existing models to guide the scope and priorities | Not published as RFC |
+| December 2027                | WG adoption of a draft for Service-layer APIs based on YANG service models to interface with OSS/BSS | Draft detailing the Service-layer APIs based on YANG service models to interface with OSS/BSS | PS|
+| December 2027                | WG adoption of a draft reusable service YANG data models | Draft detailing the framework for reusable service YANG data models | PS|
+| March 2027                |WG adoption of draft that updates the YANG network data models for L3NM and L2NM |Updated drafts for L2NM and L3NM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps.| PS|
+| March 2027                |WG adoption of draft that updates the YANG service data models for L3SM and L2SM |Updated drafts for L2SM and L3SM YANG data models based on operational feedback and deployment experiences, with attention to operational state data and identified gaps.| PS|
+| July 2027                 |Publish document for Service-layer APIs based on YANG service models to interface with OSS/BSS as RFC. | PS |
+| July 2027                 |Publish document for reusable service framework for YANG data models as RFC. | PS |
+| September 2027            |Publish document updating the YANG network data models for L3NM and L2NM as RFC. | PS |
+| September 2027            |Publish document updating the YANG service data models for L3SM and L2SM as RFC. | PS |
